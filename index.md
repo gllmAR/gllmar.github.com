@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: VeloKino;
+tagline: Réinjection cinétique et interactivité
 ---
 {% include JB/setup %}
 
