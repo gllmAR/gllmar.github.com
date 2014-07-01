@@ -1,10 +1,14 @@
 ---
 layout: post
-category : lessons
-tagline: "Supporting tagline"
-tags : [intro, beginner, jekyll, tutorial]
+category : infos
+tagline: "bases sur le processus de blog"
+tags : [jekyll, blog]
 ---
 {% include JB/setup %}
+
+À tester voir si inclure des braquet permet de coder le site  
+ 
+	{% include JB/setup %}
 
 This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we'll learn exactly _how_ Jekyll does what it does.
