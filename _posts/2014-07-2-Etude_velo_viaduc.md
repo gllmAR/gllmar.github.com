@@ -1,10 +1,16 @@
 ---
 layout: post  
 category : vélo  
-tags : ["signaletique", ]  
-tagline: "Étude de signalétique sur problème de cycliste"  
+tags : ["étude","lieu", "in situe" ]  
+tagline: "Étude de cas,  viaduc et signalétique point de vue cycliste"  
 title : "Viaduc de la mort"
 ---
+
+Les viaduc constitue un espace dangereux où l'existence des cycliste à besoin d'être signalé,  voir même célébré.  Cette célébration peut prendre la forme de sculpture de pièces de vélo intégré au paysage qui lorsqu'elles sont activé révèle une animation,  une pensée,  une parole,  un recueillement.
+
+Le mouvement de la roue;  écouter,  voir.
+ 
+
 
 ####Étude de cas,  passage à vélo : Viaduc ST-denis.
 [http://blog.fagstein.com/2014/05/02/cyclist-underpasses/](http://blog.fagstein.com/2014/05/02/cyclist-underpasses/)
