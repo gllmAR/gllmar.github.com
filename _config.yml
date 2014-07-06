@@ -219,7 +219,7 @@ navbar :
   tags :
     enabled : true
   github_projects :
-    enabled : false
+    enabled : true
   social_links :
     enabled : false
   external_links :
