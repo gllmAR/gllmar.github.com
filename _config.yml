@@ -340,6 +340,11 @@ github_projects :
   - project :
     name : VeloKino
     url : https://github.com/gllmar/velokino
+    
+  - project :
+    name : FreeB
+    url : https://github.com/gllmar/freeb
+
 
 
 # These are links to other websites outside of the blog that are not part of
