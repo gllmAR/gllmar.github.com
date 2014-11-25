@@ -83,7 +83,7 @@ favicon :
     type : png
   remote :
     enabled : true
-    full_url : http://raw.githubusercontent.com/gllmAR/velokino/gh-pages/img/gllm-favicon.png
+    full_url : https://dl.dropboxusercontent.com/u/15569938/git/gllmar.github.com/img/gllm-favicon.png
     type : png
 
 
