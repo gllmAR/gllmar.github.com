@@ -25,7 +25,7 @@
 # author : Dereck Curry
 markdown: kramdown
 name : Guillaume Arseneault
-brand : velokino
+brand : gllmAr
 description : reinjection cinétique interactive  kinectic feedback
 url : https://gllmar.github.io
 email : guillaume.arseneault@gmail.com
@@ -340,6 +340,10 @@ github_projects :
   - project :
     name : VeloKino
     url : https://github.com/gllmar/velokino
+  
+  - project :
+    name : gridBlend
+    url : https://github.com/gllmar/gridBlend
     
   - project :
     name : FreeB
