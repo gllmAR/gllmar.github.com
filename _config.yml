@@ -348,6 +348,10 @@ github_projects :
   - project :
     name : FreeB
     url : https://github.com/gllmar/freeb
+    
+- project :
+    name : Bulles
+    url : https://github.com/gllmar/bulles-prog    
 
 
 
