@@ -11,3 +11,7 @@ Suivre les infos de ce gars là
 SINON,  investiguer 
 
 [http://blog.tunpixel.tn/2014/10/27/kinect-rasp/](http://blog.tunpixel.tn/2014/10/27/kinect-rasp/)
+
+Interesting
+
+http://razorvision.tumblr.com/post/15039827747/how-kinect-and-kinect-fusion-kinfu-work
