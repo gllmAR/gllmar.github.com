@@ -23,9 +23,9 @@
 # url : https://thedereck.github.io
 # email : thedereck@thedereck.com
 # author : Dereck Curry
-name : gllmAr.io
+name : gllmAr
 brand : gllmAr
-description : ÉlectroCinétique
+description : ÉlectroCinétique 
 url : https://gllmar.github.io
 email : guillaume@artificiel.org
 author: Guillaume Arseneault
@@ -78,7 +78,7 @@ favicon :
   enabled : true
   local :
     enabled : true
-    partial_url : /img/ghpb-favicon.png
+    partial_url : /img/gllm-favicon.png
     type : png
   remote :
     enabled : false
@@ -334,11 +334,19 @@ social_links :
 #     name : gh-pages-blog
 #     url : https://github.com/thedereck/gh-pages-blog
 github_projects :
-  header : GitHub Projects
+  header : GitHub
   projects :
   - project :
-    name : gh-pages-blog
-    url : https://github.com/thedereck/gh-pages-blog
+    name : VeloKino
+    url : https://github.com/gllmar/velokino
+  - project :
+    name : GridBlend
+    url : https://github.com/gllmar/gridblend
+  - project :
+    name : Bulles
+    url : https://github.com/gllmar/bulles-prog
+
+
 
 
 # These are links to other websites outside of the blog that are not part of
@@ -364,11 +372,11 @@ github_projects :
 #       name : Lowcountry Blues Club
 #       url : http://lowcountrybluesclub.blogspot.com
 external_links :
-  header : More Great gh-pages-blog Sites
+  header : Partenaires
   links :
     - link :
-      name : The Dereck
-      url: https://thedereck.github.io
+      name : Artificiel
+      url: http://artificiel.org
 
 
 # These are the Bootstrap settings. These Bootstrap settings will control both
