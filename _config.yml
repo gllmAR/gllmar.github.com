@@ -173,7 +173,7 @@ sections:
     content :
       enabled : true
     social_links :
-      enabled : false
+      enabled : true
     github_projects :
       enabled : true
   social_links :
@@ -282,7 +282,7 @@ social_links :
   follow_name : Me
   links :
     - link :
-      enabled : true
+      enabled : false
       name : Facebook
       font_awesome_icon : icon-facebook
       url : https://www.facebook.com/
@@ -290,9 +290,9 @@ social_links :
       enabled : true
       name : GitHub
       font_awesome_icon : icon-github-alt
-      url : https://github.com/
+      url : https://github.com/gllmAR
     - link :
-      enabled : true
+      enabled : false
       name: Google+
       font_awesome_icon : icon-google-plus
       url : https://plus.google.com/
@@ -300,9 +300,9 @@ social_links :
       enabled : true
       name : Linkedin
       font_awesome_icon : icon-linkedin
-      url : http://www.linkedin.com/
+      url : https://ca.linkedin.com/in/guillaumear
     - link :
-      enabled : true
+      enabled : false
       font_awesome_icon : icon-pinterest
       name : Pinterest
       url : http://www.pinterest.com
@@ -310,7 +310,7 @@ social_links :
       enabled : true
       name : Twitter
       font_awesome_icon : icon-twitter
-      url : https://www.twitter.com/
+      url : https://twitter.com/arsenog
 
 
 # These are a list of GitHub projects that the blog owner would like to
