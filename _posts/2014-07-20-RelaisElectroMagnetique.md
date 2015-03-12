@@ -36,4 +36,4 @@ Par contre,  il manque la la spécification des pièces utilisé
 
 
 
-[http://dontbuyjustmake.blogspot.ca/2013/02/zero-friction-bicycle-dynamo.html](http://dontbuyjustmake.blogspot.ca/2013/02/zero-friction-bicycle-dynamo.html)
+[don't buy just make](http://dontbuyjustmake.blogspot.ca/2013/02/zero-friction-bicycle-dynamo.html)

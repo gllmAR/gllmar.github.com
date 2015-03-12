@@ -13,7 +13,7 @@ Le mouvement de la roue;  écouter,  voir.
 
 
 ####Étude de cas,  passage à vélo : Viaduc ST-denis.
-[http://blog.fagstein.com/2014/05/02/cyclist-underpasses/](http://blog.fagstein.com/2014/05/02/cyclist-underpasses/)
+[cyclist-underpasses](http://blog.fagstein.com/2014/05/02/cyclist-underpasses/)
 
 >the mayor of the Rosemont borough announced that new signs were installed Friday morning allowing cyclists to share the sidewalk with pedestrians.
 [...]
@@ -30,19 +30,19 @@ Un seul viaduc est éliminé d’office, c’est celui D’Iberville entre Saint
 Le maire Croteau pointe aussi du doigt le Canadien Pacifique et sa lenteur à mettre en place des passages sur la voie ferrée pour faciliter la transition des cyclistes et piétons entre les arrondissements du Plateau-Mont-Royal et Rosemont-La Petite-Patrie.
 
 #### Annonce du partage des troitoire pour cyclistes et piétons
-[http://ville.montreal.qc.ca/portal/page?_pageid=7657,83097570&_dad=portal&_schema=PORTAL&id=9244&ret=/pls/portal/url/page/arrond_cdn_en/rep_annonces/rep_actualites/coll_actualites](http://ville.montreal.qc.ca/portal/page?_pageid=7657,83097570&_dad=portal&_schema=PORTAL&id=9244&ret=/pls/portal/url/page/arrond_cdn_en/rep_annonces/rep_actualites/coll_actualites)
+[Ville de montreal](http://ville.montreal.qc.ca/portal/page?_pageid=7657,83097570&_dad=portal&_schema=PORTAL&id=9244&ret=/pls/portal/url/page/arrond_cdn_en/rep_annonces/rep_actualites/coll_actualites)
 > Cyclists and pedestrians to share sidewalks under seven overpasses in CDN—NDG
 
 ####Annonce de modification au code de la route pour protéger les cycliste :
-[http://www.ledevoir.com/politique/quebec/406956/deces-d-une-cycliste-quebec-va-modifier-le-code-de-securite-routiere](http://www.ledevoir.com/politique/quebec/406956/deces-d-une-cycliste-quebec-va-modifier-le-code-de-securite-routiere)
+[Le Devoir](http://www.ledevoir.com/politique/quebec/406956/deces-d-une-cycliste-quebec-va-modifier-le-code-de-securite-routiere)
 
 >Des changements législatifs seront envisagés. « Pour les cyclistes, on va s’impliquer davantage pour permettre une sécurité accrue, parce qu’on doit tous partager nos routes », a dit le ministre. « La commande va être passée dès vendredi », a-t-il ajouté, pour bien marquer son empressement à agir.
 
 
 
 #### Carte interactive des accidents à Vélo 2006-2011
-[http://www.lapresse.ca/multimedias/201404/30/01-4762423-carte-des-accidents-impliquant-des-velos-dans-la-grande-region-de-montreal.php](http://www.lapresse.ca/multimedias/201404/30/01-4762423-carte-des-accidents-impliquant-des-velos-dans-la-grande-region-de-montreal.php)
+[la presse](http://www.lapresse.ca/multimedias/201404/30/01-4762423-carte-des-accidents-impliquant-des-velos-dans-la-grande-region-de-montreal.php)
 
 #### Premier Éco-Compteur
 
-[http://www.lapresse.ca/videos/actualites/201303/18/46-1-premier-eco-compteur-a-montreal.php/4973acabc7e044ea88e41d95c47c7ba5](http://www.lapresse.ca/videos/actualites/201303/18/46-1-premier-eco-compteur-a-montreal.php/4973acabc7e044ea88e41d95c47c7ba5)
+[carte interactive des accidents](http://www.lapresse.ca/videos/actualites/201303/18/46-1-premier-eco-compteur-a-montreal.php/4973acabc7e044ea88e41d95c47c7ba5)
