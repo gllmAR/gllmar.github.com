@@ -1,6 +1,6 @@
 ---
 layout: post  
-category : etude  
+category : academique  
 tags : ["étude","voyages" ]  
 tagline: "découverte"  
 title : "Retour du MIT "

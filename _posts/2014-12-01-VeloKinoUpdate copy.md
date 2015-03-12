@@ -1,6 +1,6 @@
 ---
 layout: post  
-category : vélokino  
+category : velokino  
 tags : ["étude","diffusion" ]  
 tagline: "radical Switch"  
 title : "VéloKino @ YonderTone "

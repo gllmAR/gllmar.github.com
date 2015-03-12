@@ -1,6 +1,6 @@
 ---
 layout: post  
-category : vélo  
+category : velokino  
 tags : ["étude","lieu", "in situe" ]  
 tagline: "Étude de cas,  viaduc et signalétique point de vue cycliste"  
 title : "Viaduc de la mort"

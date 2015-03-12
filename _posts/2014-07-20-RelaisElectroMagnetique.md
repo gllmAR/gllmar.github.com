@@ -1,6 +1,6 @@
 ---
 layout: post  
-category : vélokino  
+category : velokino  
 tags : ["étude","composante", "electrique" ]  
 tagline: "Étude de composante ,  relais électrique"  
 title : "Relais électromagnétique et dynamo"

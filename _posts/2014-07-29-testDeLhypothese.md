@@ -1,6 +1,6 @@
 ---
 layout: post  
-category : vélokino  
+category : velokino  
 tags : ["étude","composante", "electrique" ]  
 tagline: "test de l'hypothèse"  
 title : "Watt Coil ampère et électronique"

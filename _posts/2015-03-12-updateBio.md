@@ -1,6 +1,6 @@
 ---
 layout: page  
-category : numérique  
+category : numerique  
 tags : ["software" ]  
 tagline: "Bio	"  
 title : "notes biographiques "

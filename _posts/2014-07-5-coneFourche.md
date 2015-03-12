@@ -1,6 +1,6 @@
 ---
 layout: post  
-category : vélokino  
+category : velokino  
 tags : ["étude","lieu", "in situe" ]  
 tagline: relations entre intentions et signalétique"  
 title : " Le cône comme support à la fourche"
