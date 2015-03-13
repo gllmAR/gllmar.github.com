@@ -345,13 +345,9 @@ github_projects :
   - project :
     name : Bulles
     url : https://github.com/gllmar/bulles-prog
-- project :
+  - project :
     name : WIKI
     url : https://github.com/gllmAR/gllmar.github.com/wiki/
-
-
-
-
 # These are links to other websites outside of the blog that are not part of
 # the social links or github projects. Although they could be either of those
 # as well.
