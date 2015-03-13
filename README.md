@@ -1,14 +1,6 @@
 
 veloKino 
 ========
-reminder ::
-
-	git add -A
-	git commit -a -m  "mettre un info ici"
-	git push origin master
-
-
-"enlever des includes v2 "
 
 VeloKino est un projet qui étudie la réinjection cinétique et l'autonomie énergétique en interactivité.
 
