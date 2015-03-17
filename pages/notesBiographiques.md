@@ -10,15 +10,15 @@ exclude : false
 
 Artiste numérique, Guillaume Arseneault détourne la technologie pour créer des expériences interactives novatrices. 
 
-Propulsé par une quête de préhension de la matière digitale, il hybride pixels, octets, photons et longueurs d'ondes afin de susciter davantage de réactions interpersonnelles et de dialogues. 
+Propulsé par une quête de préhension de la matière digitale, il hybride pixels, octets, photons et longueurs d'onde afin de susciter davantage de réactions interpersonnelles et de dialogues. 
 
 De l’installation immersive à la projection architecturale en passant par la conception sonore, lumineuse et technologique, la diversité des projets constitue son carburant créatif.
 
-Inspiré par le mouvement de *l'Arte povera* et sa transposition à l'ère digitale, il cherche à maximiser le registre expressif de la «pauvreté» technologique tout en démystifiant son fonctionnement physique et algorythmique.  
+Inspiré par le mouvement de *l'Arte povera* et sa transposition à l'ère digitale, il cherche à maximiser le registre expressif de la «pauvreté» technologique tout en démystifiant son fonctionnement physique et algorithmique.  
 
-Il s'intéresse particulièrement aux relations de rétroaction entre l'énergie cinétique et l'électricité. Et ce dans l'objectif de créer des installations où le mouvement et l'effort s'entrelace pour alimenter et dynamiser l'espace urbain. 
+Il s'intéresse particulièrement aux relations de rétroaction entre l'énergie cinétique et l'électricité. Et ce dans l'objectif de créer des installations où le mouvement et l'effort s'entrelacent pour alimenter et dynamiser l'espace urbain. 
 
-Actif depuis 2010,  ses créations interactives ont été présentés entre autres par MASSIVart,  Eastern Bloc, le Quartiers des spectacles, les RIDM, le FNC, Igloofest, la Société des arts technologiques et l'Office National du Film du Canada.
+Actif depuis 2010,  ses créations interactives ont été présentées entre autres par MASSIVart,  Eastern Bloc, le Quartier des spectacles, les RIDM, le FNC, Igloofest, la Société des arts technologiques et l'Office national du film du Canada.
 
 
 
