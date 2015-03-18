@@ -23,7 +23,7 @@ Développement d'un dialogue entre le mouvement et la projection vidéo
     * [The Cheshire Cat- Interactive Projection Dance](https://www.youtube.com/watch?v=ag7DBy4vhlQ)
     
 * Mouvements amplifité par la projection / corps dissimulés/mise en valeur
-    * [FLOW 1 | KINECT PROJECTOR DANCE](https://www.youtube.com/watch?v=ISKV1BeB3pM)
+    * [FLOW 1 KINECT PROJECTOR DANCE](https://www.youtube.com/watch?v=ISKV1BeB3pM)
     * [Mortal Engine by Chunky Move](https://www.youtube.com/watch?v=sbjOMualLVs)
     * [Gideon Obarzaneks Digital Moves](https://www.youtube.com/watch?v=qaT64TYsVgA)
     
