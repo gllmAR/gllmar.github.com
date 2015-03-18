@@ -8,7 +8,7 @@ title : "Mouvements Technologiques "
 
 Dans le cadre d'une conférence-discution organisé à l'agora de la danse, j'ai été convié de participer en en tant que pannelistes pour tenter de mettre en lumière différents aspect de cette question :  
 
-### Quels nouveaux rêves et fantasmes émergent de l’usage des nouvelles technologies en danse?
+###Quels nouveaux rêves et fantasmes émergent de l’usage des nouvelles technologies en danse?
 
 Développement d'un dialogue entre le mouvement et la projection vidéo
 
