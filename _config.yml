@@ -179,7 +179,7 @@ sections:
   social_links :
     enabled : false
   github_projects :
-    enabled : false
+    enabled : true
   external_links :
     enabled : true
   archive :
@@ -218,7 +218,7 @@ navbar :
   tags :
     enabled : true
   github_projects :
-    enabled : false
+    enabled : true
   social_links :
     enabled : true
   external_links :
