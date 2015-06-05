@@ -6,7 +6,7 @@ tagline: "Étude de composante ,  relais électrique"
 title : "Relais électromagnétique et dynamo"
 ---
 
-traduction et interprétation de l'article [(Don't buy, just make)](http://dontbuyjustmake.blogspot.ca/2013/02/zero-friction-bicycle-dynamo.html)
+Traduction et interprétation de l'article [(Don't buy, just make)](http://dontbuyjustmake.blogspot.ca/2013/02/zero-friction-bicycle-dynamo.html)
 
 L'auteur décrit un processus de récupération électrique à partir d'élément magnétique et de bobine de cuivre.
 
