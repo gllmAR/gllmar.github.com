@@ -169,7 +169,7 @@ sections:
     enabled : true
     image :
       enabled : true
-      url : img/GlitchG.png
+      url : https://gllmar.github.io/img/GlitchG.png
     content :
       enabled : true
     social_links :
