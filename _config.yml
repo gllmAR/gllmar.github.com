@@ -166,22 +166,22 @@ favicon :
 #     enabled : true
 sections:
   brief_bio :
-    enabled : true
+    enabled : false
     image :
       enabled : false
       url : false
     content :
-      enabled : true
+      enabled : faslse
     social_links :
       enabled : false
     github_projects :
-      enabled : true
+      enabled : false
   social_links :
     enabled : false
   github_projects :
     enabled : true
   external_links :
-    enabled : true
+    enabled : false
   archive :
     enabled : false
   categories :
@@ -222,7 +222,7 @@ navbar :
   social_links :
     enabled : true
   external_links :
-    enabled : false
+    enabled : true
 
 
 # The social links are links to various social networking sites. Although
@@ -561,7 +561,7 @@ rss :
 #   shortname : TheDereck
 #   show_comment_count : false
 disqus :
-  enabled : true
+  enabled : false
   shortname : gllmar
   show_comment_count : false
 
