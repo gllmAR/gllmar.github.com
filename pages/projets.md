@@ -1,7 +1,7 @@
 ---
 layout : page  
 title : Projets
-subtitle : Projets Documentés :
+subtitle : Projets Documentés
 exclude : false  
 ---
 Rouge Mekong
