@@ -25,7 +25,7 @@
 # author : Dereck Curry
 name : gllmAr
 brand : gllmAr
-description : ÉlectroCinétique 
+description : ÉlectroCinétique
 url : https://gllmar.github.io
 email : guillaume@artificiel.org
 author: Guillaume Arseneault
@@ -337,6 +337,9 @@ github_projects :
   header : GitHub
   projects :
   - project :
+    name : PIAVI
+    url : https://github.com/gllmar/piavi
+  - project :
     name : VeloKino
     url : https://github.com/gllmar/velokino
   - project :
@@ -374,8 +377,11 @@ external_links :
   header : Partenaires
   links :
     - link :
-      name : Artificiel
+      name : artificiel
       url: http://artificiel.org
+    - link :
+      name : grup muv
+      url: http://grupmuv.ca
 
 
 # These are the Bootstrap settings. These Bootstrap settings will control both
@@ -555,8 +561,8 @@ rss :
 #   shortname : TheDereck
 #   show_comment_count : false
 disqus :
-  enabled : false
-  shortname : myshortname
+  enabled : true
+  shortname : gllmar
   show_comment_count : true
 
 

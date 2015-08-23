@@ -9,7 +9,10 @@ title : "PiaVI : Pi interactive Audio Visual Interface"
 
 ### Abstract
 
-Créer en environnement de lecture audio visuel interactif à la fois autonome et asservie.
+Créer en environnement de lecture audio visuel interactif à la fois autonome et asservissable.
+
+L'idée est de créer différents modules qui par leur assemblage permet de réaliser des installation interactive.  Chaque module communique par un protocol standardisé (OSC - open sound control) ce qui rend [scalable] et réellement modulaire
+
 
 En X composantes
 
@@ -23,25 +26,7 @@ expose ses paramètre modifiable à une interface web
 
 Communique bidirectionnellement avec des paramètres interne via le protocol OSC.  
 
-### pour commencer sur l'ordinateur localement (mac)
 
-En partant de cette exemple : [https://github.com/toddtreece/osc-examples](https://github.com/toddtreece/osc-examples)
-
-* Installer node.js
-télécharger l'installateur ici :
-[https://nodejs.org/download/](https://nodejs.org/download/)
-
-```
-git clone https://github.com/toddtreece/osc-examples.git && cd osc-examples
-npm install
-```
-
-pour effectuer le test sur
-lancer le patch PD
-
-```
-node print.js
-```
 
 
 Pour le pi :
@@ -81,10 +66,19 @@ audio :
 
 Vidéo :
 
+
+Interface :
+
+[https://github.com/lsu-emdm/nexusUI](https://github.com/lsu-emdm/nexusUI)
+
+
+Un projet qui regroupe beaucoup des fonctionnalité
+[http://pocketvj.com](http://pocketvj.com)
+
 Video player OSC  (openframework et omxplayer)
 [https://github.com/Hemisphere-Project/HPlayer](https://github.com/Hemisphere-Project/HPlayer)
 
-basé sur : 
+basé sur :
 [https://github.com/jvcleave/ofxOMXPlayer](https://github.com/jvcleave/ofxOMXPlayer)
 
 
