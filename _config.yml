@@ -175,7 +175,7 @@ sections:
     social_links :
       enabled : false
     github_projects :
-      enabled : false
+      enabled : true
   social_links :
     enabled : false
   github_projects :
@@ -380,7 +380,7 @@ external_links :
       name : artificiel
       url: http://artificiel.org
     - link :
-      name : grup muv
+      name : grupmuv
       url: http://grupmuv.ca
 
 
@@ -563,7 +563,7 @@ rss :
 disqus :
   enabled : true
   shortname : gllmar
-  show_comment_count : true
+  show_comment_count : false
 
 
 # This section determines whether to use Google Analytics to track site
