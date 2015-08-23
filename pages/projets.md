@@ -1,12 +1,9 @@
 ---
 layout : page  
 title : Projets
-subtitle : Projets
+subtitle : Projets Documentés :
 exclude : false  
 ---
-Ce sont illustrés les projets suivants :
-
-
 Rouge Mekong
 arbol
 Rouli-roulant
