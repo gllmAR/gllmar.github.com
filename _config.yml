@@ -169,13 +169,13 @@ sections:
     enabled : true
     image :
       enabled : true
-      url : /img/GlitchG.png
+      url : img/GlitchG.png
     content :
       enabled : true
     social_links :
-      enabled : true
+      enabled : false
     github_projects :
-      enabled : true
+      enabled : false
   social_links :
     enabled : false
   github_projects :
@@ -218,7 +218,7 @@ navbar :
   tags :
     enabled : true
   github_projects :
-    enabled : false
+    enabled : true
   social_links :
     enabled : false
   external_links :
