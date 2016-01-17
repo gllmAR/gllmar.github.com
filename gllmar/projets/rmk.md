@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RMK
-permalink: /projets/rmk
+permalink: /projets/rmk.html
 ---
 ### Rouge mékong
 ![img_rmk_01.jpg](../../assets/img/img_rmk_01.jpg)

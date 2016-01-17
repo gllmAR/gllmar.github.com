@@ -1,6 +1,7 @@
 ---
 layout: page
-title: IRRADIER
+title: Irradier
+permalink: /projets/irradier.html
 ---
 Projection architecturale d'artéfacts électromagnétique temps réel;
 Co-création avec Ælab (Gisèle Trudelle),  Hexagram, Grupmuv PQDS

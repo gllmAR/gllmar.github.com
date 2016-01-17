@@ -1,7 +1,7 @@
 ---
 layout: page
 title: rush
-permalink: /projets/rush
+permalink: /projets/rush.html
 ---
 ### RUSH
 ![img_rush_01.jpg](../../assets/img/img_rush_01.png)
