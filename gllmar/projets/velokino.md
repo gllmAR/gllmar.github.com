@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: VeloKino
+title: VeloKino
 ---
 ![VeloKino](../../assets/img/img_velokino_01.jpg)
 

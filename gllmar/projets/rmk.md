@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: RMK
+title: RMK
 permalink: /projets/rmk
 ---
 ### Rouge mékong

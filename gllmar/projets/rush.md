@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: rush
+title: rush
 permalink: /projets/rush
 ---
 ### RUSH
