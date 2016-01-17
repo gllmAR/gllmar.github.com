@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VeloKino
-permalink: /projets/Velokino.html
+permalink: /projets/velokino.html
 ---
 ![VeloKino](../../assets/img/img_velokino_01.jpg)
 
