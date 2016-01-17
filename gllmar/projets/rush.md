@@ -1,9 +1,8 @@
 ---
 layout: page
-title: rush
+title: RUSH
 permalink: /projets/rush.html
 ---
-### RUSH
 ![img_rush_01.jpg](../../assets/img/img_rush_01.png)
 Installation vidéo critique pour pédaliers interactifs
 Co-création avec Alexandre Burton
