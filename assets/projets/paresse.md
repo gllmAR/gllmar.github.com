@@ -12,6 +12,6 @@ Présenté avec Antoine Turmine dans le cadre d'une exploration pour un nouveau 
 Collaboration avec la compagnie de danse Zogma
 
 V1 fonctionne avec pure data et processing.
-[github.com/gllmAR/marcels](https://github.com/gllmAR/aClock)
+[github.com/gllmAR/aCLock](https://github.com/gllmAR/aClock)
 
 ![paresse](../../assets/img/img_paresse_02.png)
