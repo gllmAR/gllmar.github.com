@@ -5,7 +5,7 @@ permalink: /projets/sens.html
 ---
 ![sens](../../assets/img/img_sens_01.jpg)
 
-Conception vidéo interactive, logiciel et operation «live»
+Conception vidéo interactive, logiciel et opération «live»
 
 avec la compagnie de danse Zogma depuis 2013
 

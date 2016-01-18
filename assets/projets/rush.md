@@ -4,13 +4,13 @@ title: RUSH
 permalink: /projets/rush.html
 ---
 ![img_rush_01.jpg](../../assets/img/img_rush_01.png)
-Installation vidéo critique pour pédaliers interactifs; Co-création avec Alexandre Burton; Présenté dans le cadre de C2-MTL, Montréal 2014
+Installation vidéo critique pour pédaliers interactifs; cocréation avec Alexandre Burton; Présenté dans le cadre de C2-MTL, Montréal 2014
 
 Le public est invité à s'asseoir dans deux meubles munis chacun d'un pédalier. Devant eux, deux téléviseurs diffusent de l'image.  
 
-L'action sur le pédalier droit extraits des mots depuis des rapport trimestriel de compagnies fameuses.  En pedalant du coté gauche,  on amalgame ces mots dans un schéma relationnel tout révélant en transparence des images qui manifeste l'envers du profit éconmique.
+L'action sur le pédalier droit extrait des mots depuis des rapports trimestriels de compagnies fameuses.  En pédalant du côté gauche,  on amalgame ces mots dans un schéma relationnel tout révélant en transparence des images qui manifeste l'envers du profit économique.
 
-Plusieur fois par heures,  le système tweet le résultat graphique et textuel sur son compte.  
+Plusieurs fois par heures,  le système tweet le résultat graphique et textuel sur son compte.  
 voir : [@rushprjct](https://twitter.com/rushprjct)
 
 ![Bo0YTB3IIAAiMzj](https://pbs.twimg.com/media/Bo0YTB3IIAAiMzj.png:large)       
