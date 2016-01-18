@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  La paresse
+title:  -7- paresse
 permalink: /projets/paresse.html
 ---
 ![paresse](../../assets/img/img_paresse_01.jpg)
