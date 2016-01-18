@@ -11,7 +11,7 @@ Le public est invité à s'asseoir dans deux meubles munis chacun d'un pédalier
 L'action sur le pédalier droit extraits des mots depuis des rapport trimestriel de compagnies fameuses.  En pedalant du coté gauche,  on amalgame ces mots dans un schéma relationnel tout révélant en transparence des images qui manifeste l'envers du profit éconmique.
 
 Plusieur fois par heures,  le système tweet le résultat graphique et textuel sur son compte.  
-voir : https://twitter.com/rushprjct
+voir : [@rushprjct](https://twitter.com/rushprjct)
 
 ![Bo0YTB3IIAAiMzj](https://pbs.twimg.com/media/Bo0YTB3IIAAiMzj.png:large)       
 
