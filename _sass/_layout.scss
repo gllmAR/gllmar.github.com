@@ -10,6 +10,17 @@
     position: relative;
 }
 
+.subtitle {
+
+float:right;
+text-align:right;
+  @include media-query($on-laptop) {
+      font-size: 14px;
+  }
+
+
+}
+
 .site-title {
     font-size: 26px;
     font-weight: 300;
@@ -209,7 +220,7 @@
     line-height: 1;
 
     @include media-query($on-laptop) {
-        font-size: 36px;
+        font-size: 34px;
     }
 }
 
@@ -220,7 +231,7 @@
         font-size: 32px;
 
         @include media-query($on-laptop) {
-            font-size: 28px;
+            font-size: 26px;
         }
     }
 
@@ -228,7 +239,7 @@
         font-size: 26px;
 
         @include media-query($on-laptop) {
-            font-size: 22px;
+            font-size: 20px;
         }
     }
 
@@ -236,7 +247,7 @@
         font-size: 20px;
 
         @include media-query($on-laptop) {
-            font-size: 18px;
+            font-size: 16px;
         }
     }
 }
