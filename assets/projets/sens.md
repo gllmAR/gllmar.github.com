@@ -3,7 +3,7 @@ layout: page
 title:  SENS
 subtitle: Environnement vidéo interactif
 tags: Conception
-years: 2013-2014
+years: ;2013-2014
 permalink: /projets/sens.html
 ---
 ![sens](../../assets/img/img_sens_01.jpg)

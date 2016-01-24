@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Arbol
+subtitle: installation cinétique
+tags: Conception
+years: ;2015
 permalink: /projets/arbol.html
 ---
 

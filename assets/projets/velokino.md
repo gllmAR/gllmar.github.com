@@ -3,7 +3,7 @@ layout: page
 title: VeloKino
 subtitle: réinjection cinétique en interactivité
 tags: recherche-création
-years: 2012-2016
+years: ;2012-2016
 permalink: /projets/velokino.html
 ---
 ![VeloKino](../../assets/img/img_velokino_01.jpg)

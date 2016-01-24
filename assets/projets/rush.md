@@ -3,7 +3,7 @@ layout: page
 title: RUSH
 subtitle: Installation vidéo interactive
 tags: co-création
-years: 2014
+years: ;2014
 permalink: /projets/rush.html
 ---
 ![img_rush_01.jpg](../../assets/img/img_rush_01.png)

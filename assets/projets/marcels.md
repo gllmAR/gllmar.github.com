@@ -1,6 +1,9 @@
 ---
 layout: page
 title: les Marcels
+subtitle: Installation cinétique sonolumineuse
+tags: Conception
+years: ;2014
 permalink: /projets/marcels.html
 ---
 ![marcels](../../assets/img/img_marcels_01.jpg)

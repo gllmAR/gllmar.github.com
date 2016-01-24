@@ -1,6 +1,9 @@
 ---
 layout: page
 title:  PiAVI
+subtitle: Recherche appliquée
+tags: Documentation
+years: ;2014-2016
 permalink: /projets/piavi.html
 ---
 

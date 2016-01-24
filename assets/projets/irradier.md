@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Irradier
+subtitle: Projection architecturale
+tags: Cocréation
+years: ;2015-2016
 permalink: /projets/irradier.html
 ---
 Projection architecturale d'artéfacts électromagnétique temps réel;

@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Pédalier à images
+subtitle: Projection architecturale interactive
+tags: Commande d'oeuvre RIDM
+years: ;2013
 permalink: /projets/pedalier.html
 ---
 ![pedalier](../../assets/img/img_pedalier_01.jpg)

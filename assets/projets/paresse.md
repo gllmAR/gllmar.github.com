@@ -1,6 +1,9 @@
 ---
 layout: page
 title:  -VII- paresse
+subtitle: Exploration chorégraphique interactive
+tags: Collaboration
+years: ;2015
 permalink: /projets/paresse.html
 ---
 ![paresse](../../assets/img/img_paresse_01.jpg)
