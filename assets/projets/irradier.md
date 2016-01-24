@@ -6,11 +6,11 @@ tags: Cocréation
 years: ;2015-2016
 permalink: /projets/irradier.html
 ---
+![irradier](../../assets/img/img_irradier_01.jpg)
+
 Projection architecturale d'artéfacts électromagnétique temps réel;
 Co-création avec Ælab (Gisèle Trudelle),  Hexagram, Grupmuv PQDS;
 Présenté sur la façade du pavillon Président-Kennedy durant RE-CREATE 2015
-
-![irradier](../../assets/img/img_irradier_01.jpg)
 
 
 

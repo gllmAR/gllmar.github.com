@@ -6,8 +6,6 @@ tags: Conception
 years: ;2015
 permalink: /projets/arbol.html
 ---
-
-
 ![arbol](../../assets/img/img_arbol_01.jpg)
 
 ARBOL, 2015,  présenté au festival Chromatic 2015
