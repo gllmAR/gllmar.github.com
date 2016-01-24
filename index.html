@@ -2,14 +2,24 @@
 layout: default
 ---
 <style>
-  .box2 {
-  display: inline-block;
-  width: 150px;
-  margin: .2em;
+
+.box2 {
+display: inline-block;
+  width: 126px;
+margin: .2em;
+
+@include media-query($on-laptop) {
+
+}
+
+@include media-query($on-palm) {
+  width: 10px;
+}
+
 }
 
 .span2 {
- position:absolute;
+position:absolute;
 color: white;
 font: bold 12px/12px Helvetica, Sans-Serif;
 letter-spacing: -1px;
