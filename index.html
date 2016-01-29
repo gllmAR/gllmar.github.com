@@ -5,10 +5,8 @@ layout: default
 
 .box2 {
 display: inline-block;
-  width: 126px;
+  width: 31%;
 margin: .2em;
-
-
 
 }
 
@@ -19,7 +17,7 @@ font: bold 12px/12px Helvetica, Sans-Serif;
 letter-spacing: -1px;
 background: rgb(0, 0, 0);
 background: rgba(0, 0, 0, 0.7);
-padding: 10px;
+padding: 6px;
 
 }
 .image2 {
@@ -29,88 +27,15 @@ padding: 10px;
 </style>
 
 
-<div class="box2">
-  <a href="/bio" >
-  <span class="span2">Bio </span>
-  <img class="image2" src="assets/thumbs/t_bio.jpg">
-  </a>
-</div>
-
-
-<div class="box2">
-  <a href="projets/velokino" >
-  <span class="span2">VeloKino </span>
-  <img class="image2" src="assets/thumbs/t_velokino.jpg">
-  </a>
-</div>
-
-<div class="box2">
-  <a href="projets/irradier" >
-  <span class="span2">Irradier </span>
-  <img class="image2" src="assets/thumbs/t_irradier.jpg">
-  </a>
-</div>
-
-<div class="box2">
-  <a href="projets/arbol" >
-  <span class="span2">arbol </span>
-  <img class="image2" src="assets/thumbs/t_arbol.jpg">
-  </a>
-</div>
-
-<div class="box2">
-  <a href="projets/rmk" >
-  <span class="span2">Rouge Mekong </span>
-  <img class="image2" src="assets/thumbs/t_rmk.jpg">
-  </a>
-</div>
-
-<div class="box2">
-  <a href="projets/rush" >
-  <span class="span2">Rush </span>
-  <img class="image2" src="assets/thumbs/t_rush.jpg">
-  </a>
-</div>
-
-<div class="box2">
-  <a href="projets/piavi" >
-  <span class="span2">PiAVI </span>
-  <img class="image2" src="assets/thumbs/t_piavi.jpg">
-  </a>
-</div>
-
-
-<div class="box2">
-  <a href="projets/marcels" >
-  <span class="span2">Les Marcels </span>
-  <img class="image2" src="assets/thumbs/t_marcels.jpg">
-  </a>
-</div>
-
-<div class="box2">
-  <a href="projets/pedalier" >
-  <span class="span2">Pédalier à images </span>
-  <img class="image2" src="assets/thumbs/t_pedalier.jpg">
-  </a>
-</div>
-
-<div class="box2">
-  <a href="projets/paresse" >
-  <span class="span2"> -7- paresse </span>
-  <img class="image2" src="assets/thumbs/t_paresse.jpg">
-  </a>
-</div>
-
-<div class="box2">
-  <a href="projets/memosono" >
-  <span class="span2">MémoSono </span>
-  <img class="image2" src="assets/thumbs/t_memosono.jpg">
-  </a>
-</div>
-
-<div class="box2">
-  <a href="projets/sens" >
-  <span class="span2">SENS </span>
-  <img class="image2" src="assets/thumbs/t_sens.jpg">
-  </a>
+<div >
+  {% for my_page in site.pages %}
+    {% if my_page.frontpage %}
+    <div class="box2">
+      <a href="{{ my_page.url | prepend: site.baseurl }}">
+      <span class="span2"> {{ my_page.title }} </span>
+      <img class="image2" src="assets/thumbs/t_{{ my_page.shortname}}.jpg">
+      </a>
+    </div>
+    {% endif %}
+  {% endfor %}
 </div>

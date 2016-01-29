@@ -5,6 +5,8 @@ subtitle: Projection architecturale interactive
 tags: Commande d'oeuvre RIDM
 years: ;2013
 permalink: /projets/pedalier.html
+shortname: pedalier
+frontpage: 1
 ---
 ![pedalier](../../assets/img/img_pedalier_01.jpg)
 

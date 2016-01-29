@@ -3,6 +3,8 @@ layout: page
 navtitle: Bio
 title: Bio
 permalink: /bio/
+frontpage: 1
+shortname: bio
 ---
 Artiste numérique, *Guillaume Arseneault* détourne pixels, octets, photons et longueurs d'onde pour créer des expériences interactives novatrices.
 

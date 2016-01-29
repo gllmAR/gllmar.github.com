@@ -5,6 +5,8 @@ subtitle: installation cinétique
 tags: Conception
 years: ;2015
 permalink: /projets/arbol.html
+shortname: arbol
+frontpage: 1
 ---
 ![arbol](../../assets/img/img_arbol_01.jpg)
 

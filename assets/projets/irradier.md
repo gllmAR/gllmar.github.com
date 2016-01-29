@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Irradier
-subtitle: Projection architecturale
+subtitle: Projection architecturale temps réel
 tags: Cocréation
 years: ;2015-2016
 permalink: /projets/irradier.html
+shortname: irradier
+frontpage : 1
 ---
 ![irradier](../../assets/img/img_irradier_01.jpg)
 

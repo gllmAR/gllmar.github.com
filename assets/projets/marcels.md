@@ -5,6 +5,8 @@ subtitle: Installation cinétique sonolumineuse
 tags: Conception
 years: ;2014
 permalink: /projets/marcels.html
+shortname: marcels
+frontpage: 1
 ---
 ![marcels](../../assets/img/img_marcels_01.jpg)
 

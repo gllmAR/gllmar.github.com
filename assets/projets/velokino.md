@@ -5,9 +5,10 @@ subtitle: réinjection cinétique en interactivité
 tags: recherche-création
 years: ;2012-2016
 permalink: /projets/velokino.html
+shortname: velokino
+frontpage: 1
 ---
 ![VeloKino](../../assets/img/img_velokino_01.jpg)
-
 
 VeloKino est une recherche-création axée sur la réinjection cinétique en interactivité.
 

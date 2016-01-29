@@ -5,8 +5,11 @@ subtitle: Installation vidéo interactive
 tags: co-création
 years: ;2014
 permalink: /projets/rush.html
+shortname: rush
+frontpage: 1
 ---
 ![img_rush_01.jpg](../../assets/img/img_rush_01.png)
+
 Installation vidéo critique pour pédaliers interactifs; cocréation avec Alexandre Burton; Présenté dans le cadre de C2-MTL, Montréal 2014
 
 Le public est invité à s'asseoir dans deux meubles munis chacun d'un pédalier. Devant eux, deux téléviseurs diffusent de l'image.  

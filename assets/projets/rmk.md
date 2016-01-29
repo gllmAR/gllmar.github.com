@@ -5,6 +5,8 @@ subtitle: Voyage immersif
 tags: co-création (Lebovitz)
 years: ;2013-2015
 permalink: /projets/rmk.html
+shortname: rmk
+frontpage: 1
 ---
 ![img_rmk_01.jpg](../../assets/img/img_rmk_01.jpg)
 

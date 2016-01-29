@@ -37,20 +37,7 @@
       }
 }
 
-.box2 {
-display: inline-block;
 
-margin: .2em;
-
-@include media-query($on-laptop) {
-  width: 150px;
-}
-
-@include media-query($on-palm) {
-  width: 10px;
-}
-
-}
 
 .site-nav {
     float: right;
