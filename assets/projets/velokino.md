@@ -28,3 +28,6 @@ Idéation, création et réalisation
 Présentée dans le cadre du festival Chromatic - MASSIVart, Montréal 2014,
 
 [github.com/gllmAR/velokino](https://github.com/gllmAR/velokino)
+
+
+<iframe src="https://player.vimeo.com/video/69431637?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
