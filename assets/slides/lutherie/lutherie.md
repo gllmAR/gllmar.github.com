@@ -17,13 +17,13 @@ laureando *Recherche-création en média expérimental* UQAM
 
 </section>
 
-<!--Introducion générale sur les termes énoncés dans le titre
+<!--Introduction générale sur les termes énoncés dans le titre
 
 
 «
-In this presentation I will commment each term in the title 
+In this presentation I will comment on each term in the title 
 
-and how they are related to my research object.
+And how they are related to my research object.
 
 
 
@@ -55,7 +55,7 @@ Commentaire sur la traduction
 
 <section data-markdown>
 ## *Numérique* / Numeric
-Representation through number system, often related to computerized operations.
+Representation through a number system, often related to computerized operations.
 ![numerique](numerique.png)
 </section>
 
@@ -69,12 +69,16 @@ Burton, Alexandre. 2000. « Lutherie Numérique .» In . Montréal : Festival
 
 : expressive form emerging from the reciprocal relations between artistic intents and his technological implementations
 
+- The act of choosing the components for a purpose, getting them to work together and making the instrument expressive.
+- Where a computer and programmation is injected between the instrument and the performance output
+- The importance of real-time is critical to get physicality of the instrument
+
 
 <!--
 
 Apprentis de Burton
 
-Exemple : pour préciser ce en quoi la lutherie numérique ce distingue 
+Exemple : pour préciser ce en quoi la lutherie numérique se distingue 
 
 Artificiel : Bulbes
 
@@ -91,8 +95,8 @@ Create the hardware and the software to
 
 <section data-markdown>
 
-## Research based practice & experimentals medias
-* #### Iteratives cycles of prototyping and demontrations 
+## Research based practice & experimental media
+* #### Iterative’s cycles of prototyping and demonstrations 
 * #### Artistic process feed from heuristic feedback 
 * #### Reflective praxis
 
@@ -120,7 +124,7 @@ Pour une compréhension de la recherche en pratique artistique
 * [Maurice Martenot] 1898-1980
 	* invented the *ondes Martenot* 
 * [Robert Moog] May 1934-2005  
-	* knowned for his work on the analogue synthesizer 
+	* known for his work on the analogue synthesizer 
 ![pioneers](pionneers.jpg)
 
 </section>
@@ -141,8 +145,8 @@ Pour une compréhension de la recherche en pratique artistique
 	* Power, condemned bulbs  
 * [Robert Henke](http://www.monolake.de)
 	* Live Sampling and sound triggering 
-	* Founder of the ableton Live Software
-	* Create the monodeck,  wich became the Akai APC40
+	* Founder of the Ableton Live Software
+	* Create the Monodeck,  which became the Akai APC40
 
 <!--
 
@@ -162,7 +166,7 @@ alvin oto
 <section data-markdown>
 ## Motivations 
 * Generate novel experiences modified by the user engagements    
-* Create interfaces-instruments with expressive range    
+* Create interfaces-instruments with expressive range accessible  
 * Deploy interactive installations in public spaces
 * Share and document this process among the Makers community (open source)
 
@@ -208,7 +212,7 @@ alvin oto
 <section data-markdown>
 ## VeloKino	
 
-* 2012 B-Cycle
+* 2012 [B-Cycle](/projets/bcycle)
 * 2013 [Kinopedal](/projets/pedalier)
 * 2014 [RUSH](/projets/rush)
 * 2014 [Marcels](/projets/marcels)
@@ -232,7 +236,7 @@ alvin oto
 
 Thereminir
 
-[github.io/gllmar/thereminir](http://github.io/gllmar/thereminir)
+[github.com/gllmar/thereminir](http://github.com/gllmar/thereminir)
 
 
 [*Demo or die* : Nicolas Negroponte,  MIT Media lab]
