@@ -137,7 +137,7 @@ Pour une compréhension de la recherche en pratique artistique
 
 * [Miller Pucket](http://msp.ucsd.edu/)
 	* Data Flow programming : Max Msp, Pure Data
-* [David Rockeby](http://www.davidrokeby.com/articles.html)
+* [David Rockeby](http://www.davidrokeby.com/vns.html)
 	* Interactive Video tracking System : (Surveillance art) 
 	* Very Nervous System (softVNS)
 * [Alexandre Burton](http://www.artificiel.org/burton)
@@ -169,6 +169,7 @@ alvin oto
 * Create interfaces-instruments with expressive range accessible  
 * Deploy interactive installations in public spaces
 * Share and document this process among the Makers community (open source)
+* Contribute to democratize technological creations trought low cost hardware 
 
 </section>
 
@@ -220,6 +221,21 @@ alvin oto
 
 
 </section>
+
+
+<section data-markdown>
+![dynamo](vk_dynamoSchema.png)
+
+</section>
+
+
+<section data-markdown>
+![technical](vk_TechnicalFlow.png)
+
+</section>
+
+
+
 
 
 
