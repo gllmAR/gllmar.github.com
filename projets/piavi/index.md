@@ -4,11 +4,10 @@ title:  PiAVI
 subtitle: Recherche appliquée
 tags: Documentation
 years: ;2014-2016
-permalink: /projets/piavi.html
 shortname: piavi
 frontpage: 1
 ---
-![piavi](../../assets/img/img_piavi_01.jpg)
+![piavi](img_piavi_01.jpg)
 [http://gllmar.github.io/piavi](http://gllmar.github.io/piavi)
 
 Documentation de développement pour déploiment d'installation interactive sur Raspberry Pi

@@ -4,11 +4,10 @@ title: B-Cycle
 subtitle: Installation immersive & vélo stationnaire interactif
 tags: Conception
 years: ;2011-2012
-permalink: /projets/bcycle.html
 shortname: bcycle
 frontpage: 1
 ---
-![bcycle1](../../assets/img/img_bcycle_01.jpg)
+![bcycle1](img_bcycle_01.jpg)
 
 B-Cycle, 2012,  présenté à Eastern Bloc,  créée en collaboration avec Julien Gingras, Mathieu Clouthier,  Francis Dakin et Simon Meloche.
 
@@ -22,16 +21,16 @@ Utilise max msp, arduino, kinect et OSX
 
 
 
-![bcycle2](../../assets/img/img_bcycle_02.jpg)
+![bcycle2](img_bcycle_02.jpg)
 
 
-![bcycle3](../../assets/img/img_bcycle_03.jpg)
+![bcycle3](img_bcycle_03.jpg)
 
 
-![bcycle4](../../assets/img/img_bcycle_04.jpg)
+![bcycle4](img_bcycle_04.jpg)
 
 
-![bcycle5](../../assets/img/img_bcycle_05.jpg)
+![bcycle5](img_bcycle_05.jpg)
 
 
 

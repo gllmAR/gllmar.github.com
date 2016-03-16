@@ -4,11 +4,10 @@ title: Arbol
 subtitle: Installation cinétique
 tags: Conception
 years: ;2015
-permalink: /projets/arbol.html
 shortname: arbol
 frontpage: 1
 ---
-![arbol](../../assets/img/img_arbol_01.jpg)
+![arbol](img_arbol_01.jpg)
 
 ARBOL, 2015,  présenté au festival Chromatic 2015
 
@@ -20,20 +19,20 @@ Utilise max msp, arduino et OSX
 
 
 
-![arbol](../../assets/img/img_arbol_02.jpg)
+![arbol](img_arbol_02.jpg)
 
-![arbol](../../assets/img/img_arbol_03.jpg)
+![arbol](img_arbol_03.jpg)
 
-![arbol](../../assets/img/img_arbol_04.jpg)
+![arbol](img_arbol_04.jpg)
 
-![arbol](../../assets/img/img_arbol_05.jpg)
+![arbol](img_arbol_05.jpg)
 
-![arbol](../../assets/img/img_arbol_06.jpg)
+![arbol](img_arbol_06.jpg)
 
-![arbol](../../assets/img/img_arbol_07.jpg)
+![arbol](img_arbol_07.jpg)
 
-![arbol](../../assets/img/img_arbol_08.jpg)
+![arbol](img_arbol_08.jpg)
 
-![arbol](../../assets/img/img_arbol_09.jpg)
+![arbol](img_arbol_09.jpg)
 
-![arbol](../../assets/img/img_arbol_10.jpg)
+![arbol](img_arbol_10.jpg)

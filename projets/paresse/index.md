@@ -4,11 +4,10 @@ title:  -VII- paresse
 subtitle: Exploration chorégraphique interactive
 tags: Collaboration
 years: ;2015
-permalink: /projets/paresse.html
 shortname: paresse
 frontpage: 1
 ---
-![paresse](../../assets/img/img_paresse_01.jpg)
+![paresse](img_paresse_01.jpg)
 
 Chorégraphie audiovisuelle interactive pour danseur contemporain.
 

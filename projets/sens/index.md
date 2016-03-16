@@ -4,11 +4,10 @@ title:  SENS
 subtitle: Environnement vidéo interactif
 tags: Conception
 years: ;2013-2014
-permalink: /projets/sens.html
 shortname: sens
 frontpage: 1
 ---
-![sens](../../assets/img/img_sens_01.jpg)
+![sens](img_sens_01.jpg)
 
 Conception vidéo interactive, logiciel et opération «live»
 
