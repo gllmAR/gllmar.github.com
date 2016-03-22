@@ -1,6 +1,6 @@
 ---
 layout: slides
-title: Lutherie numérique & interactivity 
+title: Lutherie numérique & interactivity
 description: Research based practice on crafting interactive audiovisual experiences.   
 theme: blackG
 transition: slide
@@ -15,14 +15,16 @@ transition: slide
 
 laureando *Recherche-création en média expérimental* UQAM
 
+
+
 </section>
 
 
 
 <section data-markdown>
 
-## Lutherie 
- 
+## Lutherie
+
 Related to the process of crafting string instruments
 
 ![DiderotLutherie](DiderotLutherieCrop.jpg)
@@ -49,7 +51,7 @@ Representation through a number system, often related to computerized operations
 <section data-markdown>
 ## Lutherie numérique
 
-> forme d'expression dont le "médium" est constitué par les relations réciproques qui s'établissent entre le propos artistique et son implémentation technologique. 
+> forme d'expression dont le "médium" est constitué par les relations réciproques qui s'établissent entre le propos artistique et son implémentation technologique.
 
 Burton, Alexandre. 2000. « Lutherie Numérique .» In . Montréal : Festival du nouveau cinéma.
 
@@ -64,11 +66,11 @@ Burton, Alexandre. 2000. « Lutherie Numérique .» In . Montréal : Festival
 
 Apprentis de Burton
 
-Exemple : pour préciser ce en quoi la lutherie numérique se distingue 
+Exemple : pour préciser ce en quoi la lutherie numérique se distingue
 
 Artificiel : Bulbes
 
-Create the hardware and the software to 
+Create the hardware and the software to
 
 -->
 
@@ -82,13 +84,13 @@ Create the hardware and the software to
 <section data-markdown>
 
 ## Research based practice & experimental media
-* #### Iterative’s cycles of prototyping and demonstrations 
-* #### Artistic process feed from heuristic feedback 
-* #### Reflective praxis 
+* #### Iterative’s cycles of prototyping and demonstrations
+* #### Artistic process feed from heuristic feedback
+* #### Reflective praxis
 
-Authors : 
+Authors :
 
-* Owen Chapman & Kim Sawchuk :  “Research-Creation: Intervention, Analysis and Family Resemblances.’” 
+* Owen Chapman & Kim Sawchuk :  “Research-Creation: Intervention, Analysis and Family Resemblances.’”
 
 * Louis Claude Paquin : "Méthodologie de la recherche-création"
 * Pierre Gosselin, Éric Le Coguiec : "
@@ -102,15 +104,15 @@ Pour une compréhension de la recherche en pratique artistique
 
 <section data-markdown>
 
-## Analog Pioneers 
+## Analog Pioneers
 * [Luigi Russolo] 1885–1947
 	* Intonarumori (Mechanical sound automates)
 * [Leon Theremine] 1896-1993
 	* invented the *Theremine* 	
 * [Maurice Martenot] 1898-1980
-	* invented the *ondes Martenot* 
+	* invented the *ondes Martenot*
 * [Robert Moog] May 1934-2005  
-	* known for his work on the analogue synthesizer 
+	* known for his work on the analogue synthesizer
 ![pioneers](pionneers.jpg)
 
 </section>
@@ -125,12 +127,12 @@ Pour une compréhension de la recherche en pratique artistique
 	* Augmented orchestra (live)
 	* [pureData](http://msp.ucsd.edu/Pd_documentation/) & [PDRP](http://msp.ucsd.edu/pdrp/latest/files/doc/)
 * [David Rockeby](http://www.davidrokeby.com/vns.html)
-	* Interactive Video tracking System : (Surveillance art) 
+	* Interactive Video tracking System : (Surveillance art)
 	* Very Nervous System and softVNS
 * [Alexandre Burton](http://www.artificiel.org/burton)
-	* Electroacoustic compositions with electric phenomenons 
+	* Electroacoustic compositions with electric phenomenons
 	* Teslacoils & Fiber optic teslacoil driver [impact](http://www.artificiel.org/impacts)
-	* 1000 watts bulbs & sound emmiting dimmers light dimmer [condemned_bulbs](http://www.artificiel.org/bulbes) 
+	* 1000 watts bulbs & sound emmiting dimmers light dimmer [condemned_bulbs](http://www.artificiel.org/bulbes)
 
 </section>
 <!--
@@ -146,24 +148,24 @@ alvin oto
 
 
 <section data-markdown>
-## Motivations 
+## Motivations
 * Generate novel experiences modified by the user engagements    
 * Create interfaces-instruments with expressive range accessible  
 * Deploy interactive installations in public spaces
 * Share and document this process among the Makers community (open source)
-* Contribute to democratize technological creations trought low cost hardware 
+* Contribute to democratize technological creations trought low cost hardware
 
 </section>
 
 
 <section data-markdown>
-## VeloKino	
+## VeloKino
 
 * 2012 [B-Cycle](/projets/bcycle)
 * 2013 [Kinopedal](/projets/pedalier)
 * 2014 [RUSH](/projets/rush)
 * 2014 [Marcels](/projets/marcels)
-* 2015 [Arbol](/projets/arbol) 
+* 2015 [Arbol](/projets/arbol)
 * 2016 ...
 
 
@@ -184,7 +186,7 @@ alvin oto
 
 
 <section data-markdown>
-## Demo [or die] 
+## Demo [or die]
 
 
 Create your own instruments usign open source software.
@@ -216,9 +218,3 @@ ThereminIr
 ### [guillaume@artificiel.org](mailto:guillaume@artificiel.org)
 
 </section>
-
-
-
-
-
-

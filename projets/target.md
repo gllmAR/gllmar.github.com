@@ -1,4 +1,5 @@
 IRRADIER [2015-16]
+
 		Projection architecturale d'artéfact électromagnétique temps réel;
 		Co-création avec Ælab (Gisèle Trudelle),  Hexagram, Grupmuv PQDS
 		Présenté sur la façade du pavillon Président-Kennedy durant RE-CREATE 2015
