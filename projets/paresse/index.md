@@ -5,7 +5,7 @@ subtitle: Exploration chorégraphique interactive
 tags: Collaboration
 years: ;2015
 shortname: paresse
-frontpage: 1
+
 ---
 ![paresse](img_paresse_01.jpg)
 

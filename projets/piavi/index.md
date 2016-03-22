@@ -5,7 +5,6 @@ subtitle: Recherche appliquée
 tags: Documentation
 years: ;2014-2016
 shortname: piavi
-frontpage: 1
 ---
 ![piavi](img_piavi_01.jpg)
 [http://gllmar.github.io/piavi](http://gllmar.github.io/piavi)
