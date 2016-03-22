@@ -25,6 +25,7 @@ code et documentation disponible ici
 
 [https://github.com/gllmAR/veloce](https://github.com/gllmAR/veloce)
 
+Crédit photo : Martin Beauclieu
 
 ![veloce](img_veloce_02.jpg)
 
