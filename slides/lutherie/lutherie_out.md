@@ -2,7 +2,7 @@
 layout: slides
 title: Lutherie numérique & interactivity
 description: Research based practice on crafting interactive audiovisual experiences.   
-theme: none
+theme: simple
 transition: slide
 ---
 <link rel="stylesheet" href="blackG.css" id="theme">
