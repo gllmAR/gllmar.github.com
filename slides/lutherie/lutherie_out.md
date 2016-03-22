@@ -5,6 +5,9 @@ description: Research based practice on crafting interactive audiovisual experie
 theme: blackG
 transition: slide
 ---
+
+<link rel="stylesheet" href="blackG.css" id="theme">
+
 <section data-markdown>
 
 #  *Lutherie numérique* & interactivity
