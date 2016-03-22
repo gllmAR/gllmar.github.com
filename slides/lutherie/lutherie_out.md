@@ -214,7 +214,7 @@ ThereminIr
 <section data-markdown>
 ## Guillaume Arseneault
 
-### [gllmar.github.io](http://www.gllmar.github.io)
+### [gllmar.github.io](http://gllmar.github.io)
 
 
 
