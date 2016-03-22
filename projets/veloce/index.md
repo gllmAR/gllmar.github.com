@@ -24,3 +24,20 @@ Utilise Max, Arduino et OSX
 code et documentation disponible ici
 
 [https://github.com/gllmAR/veloce](https://github.com/gllmAR/veloce)
+
+
+![veloce](img_veloce_02.jpg)
+
+![veloce](img_veloce_03.jpg)
+
+![veloce](img_veloce_04.jpg)
+
+![veloce](img_veloce_05.jpg)
+
+![veloce](img_veloce_06.jpg)
+
+![veloce](img_veloce_07.jpg)
+
+![veloce](img_veloce_08.jpg)
+
+![veloce](img_veloce_09.jpg)

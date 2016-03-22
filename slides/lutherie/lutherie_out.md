@@ -169,7 +169,7 @@ alvin oto
 * 2014 [RUSH](/projets/rush)
 * 2014 [Marcels](/projets/marcels)
 * 2015 [Arbol](/projets/arbol)
-* 2016 ...
+* 2016 [Veloce](/projets/veloce)
 
 
 </section>
