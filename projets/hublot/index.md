@@ -15,7 +15,7 @@ Chacune des sphères contient un synthétiseur granulaire et une vidéo en boucl
 
 Utilise Max et Tuio.
 
-Récipiendaire de la bourse en art numérique ArtTv 2016 offert par Radio-Canada  
+Récipiendaire de la bourse en art numérique ArtTv 2016 offerte par Radio-Canada  
 
 code et documentation disponible ici
 

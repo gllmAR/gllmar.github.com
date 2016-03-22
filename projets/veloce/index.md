@@ -9,7 +9,7 @@ frontpage: 1
 ---
 ![veloce](img_veloce_01.jpg)
 
-Véloce, 2016,  présenté au FilmForum 2016 à Gorizia en Italie
+Véloce, 2016,  présenté en première mondiale au [FilmForum](http://www.filmforumfestival.it/) à Gorizia en Italie
 
 Véloce est une performance où la manipulation des roues d'un vélo génère sons et vidéo.
 

@@ -12,6 +12,6 @@ Captivé par les relations de rétroaction entre l'énergie cinétique, l'élect
 
 De l’installation immersive à la projection architecturale en passant par la conception sonore, lumineuse et technologique, la diversité des projets constitue son carburant créatif.
 
-Actif depuis 2010,  ses créations interactives ont été présentées entre autres par *[MASSIVart](http://massivart.ca)*,  *[Eastern Bloc](http://www.easternbloc.ca)*, *[le Quartier des spectacles](http://www.quartierdesspectacles.com/fr/)*, les *[RIDM](http://www.ridm.qc.ca/fr)*, le *[FNC](http://www.nouveaucinema.ca/#/)*, *[Igloofest](http://igloofest.ca)*, la *[Société des arts technologiques](http://sat.qc.ca)* et l*'[Office national du film du Canada](https://www.onf.ca)*.
+Actif depuis 2010,  ses créations interactives ont été présentées entre autres par *[MASSIVart](http://massivart.ca)*,  *[Eastern Bloc](http://www.easternbloc.ca)*, *[le Quartier des spectacles](http://www.quartierdesspectacles.com/fr/)*, les *[RIDM](http://www.ridm.qc.ca/fr)*, le *[FNC](http://www.nouveaucinema.ca/#/)*, *[Igloofest](http://igloofest.ca)*, la *[Société des arts technologiques](http://sat.qc.ca)*, l*'[Office national du film du Canada](https://www.onf.ca)* et le [Filmforum](http://www.filmforumfestival.it/) .
 
 ![](gllmPatio.jpg)
