@@ -11,7 +11,7 @@ frontpage : 1
 
 Projection architecturale d'artéfacts électromagnétique temps réel;
 Co-création avec Ælab (Gisèle Trudelle),  Hexagram, Grupmuv PQDS;
-Présenté sur la façade du pavillon Président-Kennedy durant RE-CREATE 2015
+Présenté sur la façade du pavillon Président-Kennedy durant [RE-CREATE 2015](http://www.hexagram.ca/en/activities/re-create-2015/) ainsi qu'à ELEKTRA 2016 lors de la Biennale d'art numérique de Montréal [BIAN-Elektra 2016](http://bianmontreal.ca/artistes/guillaume-arseneault) 
 
 
 
@@ -22,3 +22,16 @@ Présenté sur la façade du pavillon Président-Kennedy durant RE-CREATE 2015
 ![irradier](img_irradier_02.jpg)
 
 ![irradier](img_irradier_03.jpg)
+
+Couverture : 
+
+* [BIAN-2016](http://bianmontreal.ca/programmation/irradier-irradiate)
+* [AELAB](http://aelab.com/wp/irradier-irradiate/)
+* [grupmuv](http://grupmuv.ca/?portfolio=irradier-irradiate)
+* [ACFAS](http://www.acfas.ca/evenements/congres/programme/84/special/297641)
+* [actualité Uqam](http://www.actualites.uqam.ca/2015/irradier-nouvelle-projection-architecturale-au-pavillon-pk)
+* [Salle de Presse UQAM](https://salledepresse.uqam.ca/communiques-de-presse/general/6941-colloque-re-create-2015-les-membres-d-hexagram-presentent-leur-recherche-et-creation)
+* [Hexagram Re-Create](http://www.hexagram.ca/en/activities/re-create-2015/)
+* [La Presse](http://www.lapresse.ca/arts/arts-visuels/201511/04/01-4917264-colloque-re-create-a-lecole-de-la-creation.php)
+* [PatWhite](http://patwhite.com/biennale-internationale-dart-numerique-bian-elektra-17-les-premiers-artistes-devoiles)
+* 

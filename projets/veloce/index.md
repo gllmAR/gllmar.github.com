@@ -9,11 +9,11 @@ frontpage: 1
 ---
 ![veloce](img_veloce_01.jpg)
 
-Véloce, 2016,  présenté en première mondiale au [FilmForum](http://www.filmforumfestival.it/) à Gorizia en Italie
+*Veloce*, 2016,  présenté en première mondiale au [FilmForum](http://www.filmforumfestival.it/) à Gorizia en Italie
 
-Véloce est une performance où la manipulation des roues d'un vélo génère sons et vidéo.
+*Veloce* est une performance où la manipulation des roues d'un vélo génère sons et vidéo.
 
-Véloce utilise comme interface les deux roues d'un vélo posé sur une table.  
+*Veloce* utilise comme interface les deux roues d'un vélo posé sur une table.  
 
 La roue arrière est asservie à la vitesse de lecture des vidéos tandis que la roue avant contrôle le changement de film depuis un dossier bien garni.
 
