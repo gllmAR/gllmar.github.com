@@ -1,6 +1,6 @@
 ---
 layout: page
-navtitle: Audio
+navtitle: audio
 title: Audio
 frontpage: 1
 shortname: Audio
