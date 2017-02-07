@@ -3,24 +3,27 @@ layout: page
 title: feu tungstène
 subtitle: Générateur d'illumination électrique
 tags: Création
-years: 2016-2017
+years: ;2016-2017
 shortname: tungstene
 frontpage : 1
 ---
 ![tungstene](img_tungstene_1.jpg)
 
-Une synthèse sonore inspirée du crépitement d'un feu s'entend à travers le socle supportant les sept ramifications d'ampoules électriques.
-La lumière qu'émettent ces dernières est modulée par les caractéristiques du son produit, le tout créant un environnement sonolumineux inspiré d'une nuit autour d'un feu. 
+Feu tungstène est un environnement sonolumineux inspiré d'une nuit autour d'un feu.   
+Une programmation produit une synthèse sonore de crépitement d'un feu qui s'entend par vibration à travers le bois.
+Des données d'amplitude sont extraites du son et servent à étinceler les sept ramifications d'ampoules électriques.  
+Feu tungstène cherche saisir l'aspect captivant et certes un peu aléatoire qu'un feu de bois génère naturellement. 
 
 Matériaux :
-	* ampoules tungstène
-	* raspberry pi 
-	* pure data 
-	* gradateur Ethernet
-	* transducteur
+
+* ampoules tungstène
+* raspberry pi 
+* pure data 
+* gradateur Ethernet
+* transducteur
  
-https://github.com/gllmAR/pdFuego
+[github.com/gllmAR/pdFuego](https://github.com/gllmAR/pdFuego)
 
 
-![tungstene-bao](img_tungstène_02.jpg)
-![tungstene-bao](img_tungstène_03.gif)
+![tungstene-bao](img_tungstene_02.jpg)
+![tungstene-bao](img_tungstene_03.gif)
