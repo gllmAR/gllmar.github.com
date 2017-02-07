@@ -7,7 +7,7 @@ years: ;2016-2017
 shortname: tungstene
 frontpage : 1
 ---
-![tungstene](img_tungstene_1.jpg)
+![tungstene](img_tungstene_01.jpg)
 
 Feu tungstène est un environnement sonolumineux inspiré d'une nuit autour d'un feu.   
 Une programmation produit une synthèse sonore de crépitement d'un feu qui s'entend par vibration à travers le bois.
