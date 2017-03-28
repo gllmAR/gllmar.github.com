@@ -34,4 +34,7 @@ Couverture :
 * [Hexagram Re-Create](http://www.hexagram.ca/en/activities/re-create-2015/)
 * [La Presse](http://www.lapresse.ca/arts/arts-visuels/201511/04/01-4917264-colloque-re-create-a-lecole-de-la-creation.php)
 * [PatWhite](http://patwhite.com/biennale-internationale-dart-numerique-bian-elektra-17-les-premiers-artistes-devoiles)
-* 
+
+![irradier](img_irradier_04.jpg)
+
+![irradier](img_irradier_05.jpg)
