@@ -2,8 +2,6 @@
 layout: page
 navtitle: audio
 title: Audio
-frontpage: 1
-shortname: Audio
 ---
 
 <br>

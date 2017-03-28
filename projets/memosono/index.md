@@ -15,7 +15,7 @@ Conception technologique en collaboration avec la Camaraderie et 10^2
 
 [lacamaraderie.com/trobadero](http://www.lacamaraderie.com/trobadero)
 
-![memosono](img_memosono_02.jpg)
+![memosono](img_memosono_02.JPG)
 
 ![memosono](img_memosono_03.jpg)
 
