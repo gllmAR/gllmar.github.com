@@ -24,11 +24,20 @@ Matériaux :
  
 [github.com/gllmAR/pdFuego](https://github.com/gllmAR/pdFuego)
 
-http://www.nightlife.ca/2017/02/13/six-artistes-montrealais-lhonneur-dans-lexpo-immersive-sublime-par-artbangbang
+[2017@livArt](http://www.nightlife.ca/2017/02/13/six-artistes-montrealais-lhonneur-dans-lexpo-immersive-sublime-par-artbangbang)
 
 
 ![tungstene-bao](img_tungstene_02.jpg)
-![tungstene-bao](img_tungstene_03.gif)
+
+![tungstene-3](img_tungstene_03.jpg)
+
+![tungstene-4](img_tungstene_04.jpg)
+
+![tungstene-5](img_tungstene_05.jpg)
+
+![tungstene-6](img_tungstene_06.jpg)
+
+![tungstene-7](img_tungstene_07.gif)
 
 
 Tungsten fire is a light and sound environment inspired by the feeling of a night around a campfire.
