@@ -26,6 +26,7 @@ Matériaux :
 
 [2017@livArt](http://www.nightlife.ca/2017/02/13/six-artistes-montrealais-lhonneur-dans-lexpo-immersive-sublime-par-artbangbang)
 
+<iframe src="https://player.vimeo.com/video/210507869?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ![tungstene-bao](img_tungstene_02.jpg)
 
