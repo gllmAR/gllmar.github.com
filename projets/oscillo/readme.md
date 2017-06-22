@@ -21,7 +21,7 @@ Objectif de l'étude:
 - Déterminer les limites de résolution et d'expression du protocole ILDA 
 - Mesurer la consomation électrique dans une perspective d'alimentation énergétique à batterie
 
-[Oscillographe.pdf](Oscillographe.pdf)
+[Oscillographe.pdf](oscillographe.pdf)
 
 ![oscillo](oscillo4.png)
 ![oscillo](oscillo5.png)
