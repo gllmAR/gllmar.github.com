@@ -5,43 +5,50 @@ title: Audio
 ---
 
 <br>
+Étude pour transducteur: deuxième couche, 2016
 
-Mini fugue de quelque chose, 2016.
+<img src="medias/waveform/etude_transducteur-2e.png" alt="Étude pour transducteur: deuxième couche, 2016"  width="100%">
+
 <audio controls   >
-      <source type="audio/mp3" src="https://dl.dropboxusercontent.com/u/15569938/portfolio/audio/miniFugueDeQuelquechose.mp3">
-      <source type="audio/ogg" src="https://dl.dropboxusercontent.com/u/15569938/portfolio/audio/miniFugueDeQuelquechose.ogg">
-      <source type="audio/wav" src="https://dl.dropboxusercontent.com/u/15569938/portfolio/audio/miniFugueDeQuelquechose.wav">
-</audio>
-<br>
-Étude pour transducteur: deuxième couche, 2016.
-<audio controls   >
-      <source type="audio/mp3" src="https://dl.dropboxusercontent.com/u/15569938/portfolio/audio/Etude%20pour%20transducteur%20deuxieme%20couche.mp3">
-      <source type="audio/ogg" src="https://dl.dropboxusercontent.com/u/15569938/portfolio/audio/Etude%20pour%20transducteur%20deuxieme%20couche.ogg">
-      <source type="audio/wav" src="https://dl.dropboxusercontent.com/u/15569938/portfolio/audio/Etude%20pour%20transducteur%20deuxieme%20couche.wav">
-</audio>
-<br>
-Étude pour transducteur, 2016.
-<audio controls   >
-      <source type="audio/mp3" src="https://dl.dropboxusercontent.com/u/15569938/portfolio/audio/Etude%20pour%20transducteur.mp3">
-      <source type="audio/ogg" src="https://dl.dropboxusercontent.com/u/15569938/portfolio/audio/Etude%20pour%20transducteur.ogg">
-      <source type="audio/wav" src="https://dl.dropboxusercontent.com/u/15569938/portfolio/audio/Etude%20pour%20transducteur.wav">
-</audio>
-<br>
-Arythmie, 2014. Boîte à musique asservie au rythme du coeur.
-<audio controls   >
-      <source type="audio/mp3" src="https://dl.dropboxusercontent.com/u/15569938/portfolio/audio/2014_arythmie.mp3">
-      <source type="audio/ogg" src="https://dl.dropboxusercontent.com/u/15569938/portfolio/audio/2014_arythmie.ogg">
-      <source type="audio/wav" src="https://dl.dropboxusercontent.com/u/15569938/portfolio/audio/2014_arythmie.wav">
+      <source type="medias/mp3" src="medias/etude_transducteur-2e.mp3">
+      <source type="medias/ogg" src="medias/etude_transducteur-2e.ogg">
 </audio>
 <br>
 
-110119-000-BoiteAMessage-Jam, 2011. 
-<audio controls   >
-      <source type="audio/mp3" src="https://dl.dropboxusercontent.com/u/15569938/portfolio/audio/110119-000-BoiteAMessage-Jam.mp3">
-      <source type="audio/ogg" src="https://dl.dropboxusercontent.com/u/15569938/portfolio/audio/110119-000-BoiteAMessage-Jam.ogg">
-      <source type="audio/wav" src="https://dl.dropboxusercontent.com/u/15569938/portfolio/audio/110119-000-BoiteAMessage-Jam.wav">   
-</audio>
+<br>
+Étude pour transducteur: 2016
 
+<img src="medias/waveform/etude_transducteur.png" alt="Étude pour transducteur"  width="100%">
+
+<audio controls   >
+      <source type="medias/mp3" src="medias/etude_transducteur.mp3">
+      <source type="medias/ogg" src="medias/etude_transducteur.ogg">
+</audio>
+<br>
+
+<br>
+
+Défibrilations arythmique, 2014
+
+<img src="medias/waveform/arythmie.png" alt="Défibrilations arythmique"  width="100%">
+
+<audio controls   >
+      <source type="medias/mp3" src="medias/arythmie.mp3">
+      <source type="medias/ogg" src="medias/arythmie.ogg">
+</audio>
+<br>
+
+<br>
+
+boite-a-message-jam-110119, 2011
+
+<img src="medias/waveform/boite-a-message-jam-110119.png" alt="boite-a-message-jam-110119, 2011"  width="100%">
+
+<audio controls   >
+      <source type="medias/mp3" src="medias/boite-a-message-jam-110119.mp3">
+      <source type="medias/ogg" src="medias/boite-a-message-jam-110119.ogg">
+</audio>
+<br>
 
 
 
