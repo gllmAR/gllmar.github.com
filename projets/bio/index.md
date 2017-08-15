@@ -23,3 +23,5 @@ Depuis 2011 il travail l'interactivité au sein d'[artificiel](https//www.artifi
 Guillaume Arseneault hijacks technologies to create novels interactives experiences. 
 Driven by a desire to provoke reactions and dialogues toward ourselves in the digital era,  his pieces investigates the kinetic feedback sustainability in interactives audiovisuals environments. 
 From immersive installations to architectural projections, lighting, sound and technological designs, the breadth of his interests is his creative fuel. Since 2011, he has worked as a interactive designer at Artificiel.org
+
+![](IrradierGA_mai2016_web.jpg)
