@@ -1,7 +1,7 @@
 ---
 layout: page
-navtitle: Bio
-title: Bio
+navtitle: bio
+title: bio
 frontpage: 1
 shortname: bio
 ---
