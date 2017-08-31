@@ -30,7 +30,14 @@ Opéré avec  [VJ Slova](https://www.facebook.com/soko.slova/)
 Create by Jimmy Lakatos and Guillaume Arseneault for Mutek 2017 (Montréal)
 
 Operated with [VJ Slova](https://www.facebook.com/soko.slova/) 
-![VjSlova](slova.jpg)
+![VjSlova](photos/sebastien_roy/slova-sebastien_roy.jpg)
+-> [Sebastien Roy](https://www.facebook.com/lephotographiste?fref=mentions&pnref=story)
+
+![sentinelle-bruno_destombes](photos/bruno_destombes/sentinelle-bruno_destombes.jpg)
+-> [Bruno Destombes](https://www.brunodcapture.com)
+
+![Sentinelle-soft_melancholy](photos/soft_melancholy/sentinelle-soft_melancholy.jpg)
+-> [Soft Melancholy](https://www.facebook.com/softmelancholy) 
 
 ![sentinelle](img_sentinelle_1.jpg)
 
