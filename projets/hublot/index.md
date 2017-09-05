@@ -20,3 +20,14 @@ Récipiendaire de la bourse en art numérique ArtTv 2016 offerte par Radio-Canad
 code et documentation disponible ici
 
 [https://github.com/gllmAR/hublot](https://github.com/gllmAR/hublot)
+
+![hub_1.png](img/hub_1.png)
+
+![hub_2.png](img/hub_2.png)
+
+![hub_3.png](img/hub_3.png)
+
+![hub_4.png](img/hub_4.png)
+
+![hub_5.png](img/hub_5.png)
+

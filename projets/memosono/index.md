@@ -5,7 +5,6 @@ subtitle: Collaboration
 tags: Conception technologique
 years: ;2014
 shortname: memosono
-frontpage: 1
 ---
 ![memosono](img_memosono_01.jpg)
 
