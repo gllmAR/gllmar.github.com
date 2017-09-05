@@ -68,6 +68,11 @@ Commande d'oeuvre de Piknick Électronic, Montréal
 
 ### Collaborations artistiques 	
 
+#### [Laps](/projets/laps ) 
+Architecturama, Frédéric Lavoie, artificiel [2017] <br>
+Installation commémorative audio-lumineuse mobile; Intégration électronique et technologique  <br>
+En tournée dans les parc de l'arondissement Rosemont 2017
+
 #### [Là](http://mmrectoverso.org/portfolio/line-nault-la/ ) 
 Line Nault, Alexandre Burton, Alexandre St-Onge [2013-2016] <br>
 Spectacle installation interactif; Intégration technique et technologique  <br>
