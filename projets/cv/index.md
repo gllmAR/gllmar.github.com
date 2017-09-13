@@ -101,7 +101,7 @@ Présenté à la Bibliothèque et Archives Nationales entre novembre 2014 et  ma
 #### [IMPACTS](https://artificiel.org/impacts)
 Alexandre Burton [2012-2014] <br>
 Installation électroacoustique interactive;  Programmation et installation Tesla <br>
-présentées à BIAN, DHC/ART, Centre FACT Liverpool (UK), Mois Multi à Québec  
+présentées à BIAN, DHC/ART, Centre FACT Liverpool (UK), Mois Multi à Québec 
 
 
 #### [Devil's toys](http://artificiel.org/devilstoy) 
@@ -129,16 +129,15 @@ Présenté à l'usine C, Festival OFFTA MTL(QC);
 
 ### Conférences
 	 
-#### [Lutherie numérique et interactivité](gllmar.github.io/slides/lutherie/lutherie_out#/) [2016] 
+#### [Lutherie numérique et interactivité](/slides/lutherie/lutherie_out#/) [2016] 
 IUAV-Institut Universitaire d’Architecture de Venise(It), Cultures du projet 
 
 
 #### Vélokino, sensors mapping and interactive audiovisual experiences [2016]
 FilmForum, Université Udine(It) Bodifications: mapping the body in media culture
 
-#### [Design et montage sonore](gllmar.github.io/wikimi/) [2013-2016]
+#### [Design et montage sonore](http://gllmar.github.io/wikimi/) [2013-2016]
 École Nationale du Cirque
-		
 		
 
 ### Enseignement	

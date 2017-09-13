@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Laps
-subtitle: Installation cinétique sonolumineuse
+subtitle: Réminiscence audiovisuelle mobile
 tags: intégration/électronique
 years: ;2017
 shortname: laps
@@ -42,10 +42,13 @@ Frédéric Lavoie, artiste
 Claude Perrault
 Regroupement arts et culture Rosemont—La Petite-Patrie (RACRPP)
 
-Programmation et intégration électronique : artificiel
+Programmation logiciel et électronique : artificiel
 
 ![laps4](img_4.JPG)
 
 ![laps5](img_5.JPG)
+
+![laps6](img_6.png)
+
 
 

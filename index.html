@@ -4,6 +4,7 @@ layout: default
 <style>
 
 .box2 {
+
 display: inline-block;
   width: 31%;
 margin: .1em;
@@ -14,14 +15,18 @@ margin: .1em;
 position:absolute;
 color: white;
 font: bold 12px/12px Helvetica, Sans-Serif;
-letter-spacing: -1px;
+letter-spacing: -.8px;
 background: rgb(0, 0, 0);
 background: rgba(0, 0, 0, 0.7);
 padding: 6px;
 
 }
+
+
 .image2 {
+
   width: 100%;
+
 
 }
 </style>
@@ -32,9 +37,8 @@ padding: 6px;
     {% if my_page.frontpage %}
     <div class="box2">
       <a href="{{ my_page.url | prepend: site.baseurl }}">
-      <span class="span2"> {{ my_page.title }} </span>
+      <span class="span2" > {{ my_page.title }} </span>
    
-      <!-- <img class="image2" src="assets/thumbs/t_{{ my_page.shortname}}.jpg"> -->
       <img class="image2" src="projets/{{ my_page.shortname}}/t_{{ my_page.shortname}}.jpg">
       </a>
     </div>

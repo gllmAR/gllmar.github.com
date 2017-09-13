@@ -1,7 +1,7 @@
 ---
 layout: page
 navtitle: audio
-title: Audio
+title: audio
 ---
 
 <br>

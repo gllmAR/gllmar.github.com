@@ -25,4 +25,8 @@ From immersive installations to architectural projections, lighting, sound and t
 
 ![](IrradierGA_mai2016_web.jpg)
 
+![](photoStitching_6.jpg)
+
 ![](arseneault_fact_2013.jpg)
+
+[arseneault_guillaume_2017](arseneault_guillaume_2017-bw.JPG)
