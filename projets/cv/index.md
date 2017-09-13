@@ -188,11 +188,11 @@ M.I. UQAM, Hiver 2012 :
 Court-métrage, documentaire engagé;  coréalisation avec Rozenn Potin <br>
 Sélection officielle au Guanajuato International Film Festival (GIFF) 
 		
-#### [Tolérance](vimeo.com/21260514) [2011] 
+#### [Tolérance](https://vimeo.com/21260514) [2011] 
 Installation audiovisuelle interactive; conception et programmation sonore <br>
 M.I. UQAM, Hiver 2011 : 
  
-#### [Expérience](http://vimeo.com/arseninc/exp) [2010] 
+#### [Expérience](https://vimeo.com/gllmar/exp) [2010] 
 Scénario, réalisation, direction artistique : Installation vidéo trois canaux <br>
 M.I. UQAM, Printemps 2010  : 
 
