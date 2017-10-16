@@ -5,7 +5,7 @@ subtitle: Générateur d'illumination électrique
 tags: Création
 years: ;2016-2017
 shortname: tungstene
-frontpage : 1
+frontpage: 1
 ---
 ![tungstene](img_tungstene_01.jpg)
 

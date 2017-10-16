@@ -7,7 +7,7 @@ title: audio
 <br>
 Étude pour transducteur: deuxième couche, 2016
 
-<audio controls   >
+<audio controls  preload="none" >
 	<source type="audio/m4a" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/medias/etude_transducteur-2e.m4a">
     <source type="audio/mp3" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/medias/etude_transducteur-2e.mp3">
     <source type="audio/ogg" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/medias/etude_transducteur-2e.ogg">
@@ -17,7 +17,7 @@ title: audio
 
 <br>
 Étude pour transducteur: 2016
-<audio controls  >
+<audio controls preload="none" >
 	  <source type="audio/m4a" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/etude_transducteur.m4a">
       <source type="audio/mp3" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/etude_transducteur.mp3">
       <source type="audio/ogg" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/etude_transducteur.ogg">
@@ -27,7 +27,7 @@ title: audio
 
 <br>
 Défibrilations arythmique, 2014
-<audio controls   >
+<audio controls preload="none"  >
 	  <source type="audio/m4a" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/medias/arythmie.m4a">
       <source type="audio/mp3" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/arythmie.mp3">
       <source type="audio/ogg" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/arythmie.ogg">
@@ -38,7 +38,7 @@ Défibrilations arythmique, 2014
 
 <br>
 boite-a-message-jam-110119, 2011
-<audio controls   >
+<audio controls  preload="none" >
 	<source type="audio/m4a" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/medias/boite-a-message-jam-110119.mp3">
     <source type="audio/mp3" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/boite-a-message-jam-110119.mp3">
     <source type="audio/ogg" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/boite-a-message-jam-110119.ogg">

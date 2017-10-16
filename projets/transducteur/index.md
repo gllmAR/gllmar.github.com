@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Étude pour transducteur
-frontpage: 1
 shortname: transducteur
 ---
 
