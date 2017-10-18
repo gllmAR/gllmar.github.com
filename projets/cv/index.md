@@ -128,6 +128,9 @@ Présenté à l'usine C, Festival OFFTA MTL(QC);
 
 
 ### Conférences
+
+#### [Compression vidéo; applications au médias interactifs](/slides/compression_video) [2017] 
+UQAM, Technologie des médias 
 	 
 #### [Lutherie numérique et interactivité](/slides/lutherie/lutherie_out#/) [2016] 
 IUAV-Institut Universitaire d’Architecture de Venise(It), Cultures du projet 
@@ -136,7 +139,7 @@ IUAV-Institut Universitaire d’Architecture de Venise(It), Cultures du projet
 #### Vélokino, sensors mapping and interactive audiovisual experiences [2016]
 FilmForum, Université Udine(It) Bodifications: mapping the body in media culture
 
-#### [Design et montage sonore](http://gllmar.github.io/wikimi/) [2013-2016]
+#### [Conception et montage sonore](http://gllmar.github.io/wikimi/) [2013-2017]
 École Nationale du Cirque
 		
 
