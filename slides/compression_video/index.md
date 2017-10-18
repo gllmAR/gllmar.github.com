@@ -10,7 +10,7 @@ transition: slide
 
 <section data-markdown>
 
-##  Compression Vidéo
+##  Compression vidéo
 ### Applications aux médias interactifs  
 
 #### Guillaume Arseneault 
@@ -41,10 +41,10 @@ transition: slide
 
 ## Signaux, résolutions & ratios
 
-* [Signaux analogue/digital](https://en.wikipedia.org/wiki/Video#Analog_video)
+* [Signaux analogues/digitaux](https://en.wikipedia.org/wiki/Video#Analog_video)
 	* [transmission télévisuelle analogue](https://en.wikipedia.org/wiki/Analog_television)
 * [résolutions](https://en.wikipedia.org/wiki/Computer_display_standard#/media/File:Vector_Video_Standards2.svg)
-* [ratios-image](https://en.wikipedia.org/wiki/Display_aspect_ratio)
+* [ratios image](https://en.wikipedia.org/wiki/Display_aspect_ratio)
 * [ratios-pixels](https://en.wikipedia.org/wiki/Pixel_aspect_ratio)
 
 </section>
@@ -72,7 +72,7 @@ transition: slide
 
 ## Container/Codec
 
-![container-codec](assets/container-codec.png)
+![container codec](assets/container-codec.png)
 
 </section>
 
@@ -80,9 +80,9 @@ transition: slide
 
 ## Containers
 
-| nom | extention |
+| nom | extension |
 | -	| -|
-| Quicktime | .mov |
+| QuickTime | .mov |
 | Matroska  | .mkv |
 | Mpeg4		| .mp4 |
 | Windows Media Video | .wmv |
@@ -112,12 +112,12 @@ transition: slide
 
 ## lossless/lossy Codecs
 
-* [Encodage video sans perte - lossless](https://en.wikipedia.org/wiki/List_of_codecs#Lossless_video_compression)
+* [Encodage vidéo sans perte - lossless](https://en.wikipedia.org/wiki/List_of_codecs#Lossless_video_compression)
 	* Apple Animation (QuickTime RLE)
 	* CinemaDNG Raw (Adobe, Blackmagic)
 	* séquence d'images (tiff, openexr)
 
-*  [Encodage vidéo avec perte -lossy]()
+*  [Encodage vidéo avec perte -lossy](https://en.wikipedia.org/wiki/List_of_codecs#Lossy_compression_2)
 	* H.264&VP8
 	* HEVC&VP9
 	* proRes, dnxHD, cineform		
@@ -130,7 +130,7 @@ transition: slide
 
 ## intraframe compression
 
-* toute l'image individuellement compressée dans un frame.
+* Toute l'image individuellement compressée dans chaque image.
 	* prores, dnxHD, photoJpeg, Apple intermediate codec (aic), cineform 	
 * lossy demo? 
 
@@ -139,66 +139,82 @@ transition: slide
 <section data-markdown>
 
 ### [interframe](https://en.wikipedia.org/wiki/Inter_frame)
-* image temporellement compressée (ce qui change)
-* [intraframe-vs-interframe compression](https://www.youtube.com/watch?v=ss8Re56zozY)
-* [Delta encoding mpeg](http://dvd-hq.info/data_compression_3.php)
-* [usage créatif1](https://www.youtube.com/watch?v=rMSsw4CZvKg)
-* [usage créatif2](https://www.youtube.com/watch?v=rSmEOk5AiN0)
-* [usage creatif3](https://www.youtube.com/watch?v=dNa0-xrKi3Q)
+* image temporellement compressée, [ce qui change](http://dvd-hq.info/data_compression_3.php)
+	* [images: I (clef), P (<-) et B(<->)](https://en.wikipedia.org/wiki/Video_compression_picture_types)
+	* [GOP : group of picture](https://en.wikipedia.org/wiki/Inter_frame#/media/File:IPB_images_sequence.png)
+* usage créatif [1](https://www.youtube.com/watch?v=rMSsw4CZvKg), [2](https://www.youtube.com/watch?v=rSmEOk5AiN0), [3](https://www.youtube.com/watch?v=dNa0-xrKi3Q)
 
 </section>	
 
 
 <section data-markdown>
+Usages 
+### compression intra et inter image
 
-## Usages 
+comme: H264, H265, vp8, vp9 etc...
 
-capture 
+* Capture 
+	* Certain dslr, caméra abordable.
+	* favoriser l'option all-i si disponible
+* Livrable/échange pour diffusion
+* Archivage
+* Lecture unidirectionnelle (vers l'avant)
+* Streaming ([Vimeo](https://vimeo.com/help/compression), [YouTube](https://support.google.com/youtube/answer/1722171?hl=en) etc.)
 
-edition 
-
-livrable
+</section>	
 
 
-multipasse: 
+<section data-markdown>
+Usages 
+### compression uniquement intra image
 
+comme: prores, dnxhd, [redcode](http://www.red.com/learn/red-101/redcode-file-format) etc...
+
+* capture 
+	* (certains enregistreur et caméra haut de gamme)
+* édition vidéo
+* colorimétrie
+* livrable/échange entre monteurs
 
 </section>	
 
 
 
 
+<section data-markdown>
+Usages
+## décompression optimisée GPU
+
+comme : [HAP & HAPq](http://vdmx.vidvox.net/blog/hap) ou [dxv](https://resolume.com/software/codec)
+
+* lecture multicouche 
+* haute résolution 
+* effets GPU 
+* requiert une carte graphique(vram) et un SSD rapide
+
+
+</section>	
 
 <section data-markdown>
 
-## HAP & HAPq
+## hap : [codec open-source](https://github.com/Vidvox/hap)
 
-codec open-source développé par vidvox axé sur le décodage GPU au lieu de CPU.
-
-[code](https://github.com/Vidvox/hap)
-
-largement adopté 
+Compatible:
 * [TouchDesigner](http://www.derivative.ca/wiki088/index.php?title=Hap)
 * [max](https://cycling74.com/forums/announcing-hap-video-engine/)
 * [OpenFrameworks](https://github.com/bangnoise/ofxHapPlayer)
 * modul8, vdmx, madmapper, unity, isadora etc...
 * [encoder avFoundation](https://github.com/Vidvox/hap-in-avfoundation/releases) 
-
 </section>	
 
-
-
 <section data-markdown>
-
-## Médiagraphie
+Médiagraphie
 
 ### Guides sur la compression vidéo
 
 * [Vimeo-compression-basic](https://vimeo.com/blog/post/video-compression-basics)
-* [Vimeo-compression-guideline](https://vimeo.com/help/compression)
-* [youtube-compression-basics](https://support.google.com/youtube/answer/1722171?hl=en)
 * [B&H crash course sur les codecs](https://www.youtube.com/watch?v=sisvOeZItb0)
-* [techquickie sur la video compressé](https://www.youtube.com/watch?v=qbGQBT2Vwvc)
+* [techquickie sur la vidéo compressé](https://www.youtube.com/watch?v=qbGQBT2Vwvc)
 * [techquickie sur interlace/prograssif](https://www.youtube.com/watch?v=H_o5h5SK_70)
 
 </section>
@@ -206,7 +222,7 @@ largement adopté
 
 <section data-markdown>
 
-## Médiagraphie
+Médiagraphie
 
 ### Pour aller plus loin
 
@@ -218,10 +234,6 @@ largement adopté
 * [how-to datamosh](https://www.youtube.com/watch?v=tYytVzbPky8)
 
 </section>
-
-
-
-
 
 
 
