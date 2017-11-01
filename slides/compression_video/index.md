@@ -240,7 +240,7 @@ Médiagraphie
 <section data-markdown>
 ## Guillaume Arseneault
 
-### [gllmar.github.io](http://www.gllmar.github.io)
+### [gllmar.github.io](https://gllmar.github.io)
 
 ### [gllm@artificiel.org](mailto:guillaume@artificiel.org)
 
