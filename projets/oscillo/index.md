@@ -2,41 +2,45 @@
 layout: page
 title: Oscillographe
 subtitle: Performance sonolumineuse
-tags: etude
-years: ;2017
+tags: performance
+years: ;2017-18
 shortname: oscillo
 frontpage: 1
 ---
 ![oscillobanner](oscillo_banner.png)
  
- En continuité avec le mouvement de musique pour oscilloscope, Oscillographe amplifie et démocratise l'expérience sinestésique entre son et image tout en le sortant du laboratoire et des instruments de mesure. 
 
-<iframe src="https://player.vimeo.com/video/238415254?color=ff9933&title=0&byline=0&portrait=0" width="100%" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+[Oscillographe](https://github.com/gllmAR/oscillographe) est un logiciel d'analyse audio temps réel qui fonctionne tel un oscilloscope tout en ajoutant l'accumulation temporelle, l'échantillonage audio ainsi que la 3d au moteur de visualisation. Programmé en C++ en utilisant [Openframeworks](http://openframeworks.cc) et fonctionnant sur un raspberry pi.
 
-[Oscillographe](https://github.com/gllmAR/oscillographe) est un logiciel d'analyse audio temps réel qui fonctionne tel un oscilloscope tout en ajoutant l'accumulation temporelle ainsi que la 3d à l'équation de visualisation.
+<iframe src="https://player.vimeo.com/video/262529537?color=ff9933&title=0&byline=0&portrait=0&quality=720p" width="100%" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+Un cycle de réinjection cinétique (feedback cycles) est une performance sonore et visuelle pour oscillographe et roues de vélo.
 
-Oscillographe-laser est un projet liant la projection laser asservie à la performance sonore temps réel. Basé sur le principe de l'oscilloscope, Oscillographe-laser traduit du signal audio provenant de feedback sensible de phase vers un signal de coordonné XY servant à diriger la trajectoire de lasers. 
+Des fragments audio s'entrelacent à de l’échantillonnage et créent des motifs lumineux. 
 
-Conçue comme instrument de performance scénique et basé sur le protocole ILDA (International Laser Display Association) sa portabilité et sa compatibilité avec du matériel existant maximise la dissémination et la circulation du projet. À l'ère de l'informatisation des performances scéniques, Oscillographe embrasse l'expressivité du signal analogue.
+Les particularités sonores telles que la phase, la fréquence et l'amplitude produisent une synesthésie audio visuelle hypnotique de lignes traçant la disparité stéréophonique. 
 
-Objectif de l'étude:
-- Concevoir le réseau d'amplification adéquat pour transformer un signal audio en signal différentiel -5 à +5 volt 
-- Élaborer un mode d'intégration pour contrôler la couleur du laser
-- Déterminer les limites de résolution et d'expression du protocole ILDA 
-- Mesurer la consommation électrique dans une perspective d'alimentation énergétique à batterie
-
-[Oscillographe.pdf](oscillographe.pdf)
-
-![oscillo](oscillo4.png)
-![oscillo](oscillo5.png)
-![oscillo](oscillo6.png)
+Conçue à partir de feedback sous plusieurs formes, cette performance cherche à révéler l'intangible entre l'absence et le court-circuit.
+En continuité avec le mouvement de musique pour oscilloscope, Oscillographe amplifie et démocratise l'expérience sinestésique entre son et image tout en le sortant du laboratoire et des instruments de mesure. 
 
 
+![oscillographe_bouilli_1](b_1.jpg)
 
+![oscillographe_bouilli_2](b_2.jpg)
 
+![oscillographe_bouilli_3](b_3.jpg)
 
+![oscillographe_bouilli_4](b_4.jpg)
 
+![oscillographe_bouilli_5](b_5.jpg)
+
+![oscillographe_bouilli_6](b_6.jpg)
+
+![oscillographe_bouilli_7](b_7.jpg)
+
+![oscillographe_bouilli_8](b_8.jpg)
+
+![oscillographe_bouilli_9](b_9.jpg)
 
 
 
