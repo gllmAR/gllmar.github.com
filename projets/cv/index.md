@@ -6,9 +6,12 @@ shortname: cv
 ---
 <br>
 
-
 ### Créations en nouveaux médias
 
+#### [Feedback pour Oscillographe](/projets/oscillo/) [2018] 
+
+Performance audiovisuelle <br>
+Lutherie numérique et manipulations <br>
 
 #### [Sentinelle](/projets/sentinelle/) [2017] 
 
@@ -22,24 +25,20 @@ Performance audiovisuelle sur vélo renversé <br>
 Lutherie numérique et manipulations <br>
 Présenté en première mondiale au FilmForum à Gorizia en Italie 2016
 
-
 #### [Arbol](/projets/arbol) [2015]
 Installation sonolumineuse interactive pour roues libres <br>
 Idéation, création et réalisation <br>
 Présentée dans le cadre du festival Chromatic - MASSIVart, Montréal 2015, 
-
 
 #### [IRRADIER](/projets/irradier) [2015-16]
 Projection architecturale d'artéfact électromagnétique temps réel <br>
 Co-création avec Ælab (Gisèle Trudelle),  Hexagram, Grupmuv PQDS  <br>
 Présenté sur la façade du pavillon Président-Kennedy durant RE-CREATE 2015 
 	
-
 #### [Rouge Mékong](/projets/rmk) [2013-2015] 
 Voyage immersif,  interaction 360 degrés <br>
 Co-création et direction multimédias avec le Collectif Lebovitz <br>
 Diffusé à la SATOPHÈRE dans le cadre du FNC (Festival du nouveau cinéma) 
-
 
 #### [RUSH](/projets/rush) [2014]
 Installation vidéo critique pour pédaliers interactifs <br>
@@ -51,27 +50,36 @@ Projection architecturale interactive <br>
 Création, Réalisation, commande d'œuvre des RIDM <br>	
 conçu en partenariat avec Pete and Vegas et Daïchi Saïto 
 
-
 #### [Sens/Zøgma](/projets/sens) [2013] 
 Environnements visuels réactifs pour spectacle de gigue contemporaine <br>
 Conception vidéo,  aiguillage, programmation 
-
-		
+	
 #### [Mise à terre pour sculpteur de filtre](/projets/miseaterre) [05/2012] 
 Performance sonore électroacoustique <br>
-Récipiendaire de la bourse Sennheiser Hexagram 
-	
-		 
+Récipiendaire de la bourse Sennheiser Hexagram 			 
+
 #### Taïko – Village Igloofest [01/2012] 
 Installations interactives lumino-rythmique <br>
 Commande d'oeuvre de Piknick Électronic, Montréal 
 
 ### Collaborations artistiques 	
 
+#### [La vie utile](http://espacego.com/saison-2017-2018/la-vie-utile/)
+Marie Brassard, Evelyne de la Chenelière, Espace Go/FTA[2018]<br>
+Art vivant; intégration vidéo
+
+#### [J'aime Hydro](http://porteparole.org/en/plays/jaime-hydro/)
+Christine Beaulieu, Annabel Soutar, Porte Parole/Champ gauche[2017]<br>
+Art vivant; intégration vidéo
+
+#### [The Alaska Exhibition](https://gsmproject.com/en/projects/case-study/the-alaska-exhibition/)
+gsmproject, artificiel, Anchorage Museum[2016-2017]<br> 
+Installations interactives et design/développement/déploiement système Linux<br>
+Exposition muséale permanente
+
 #### [Laps](/projets/laps ) 
 Architecturama, Frédéric Lavoie, artificiel [2017] <br>
 Installation commémorative audio-lumineuse mobile; Intégration électronique et technologique  <br>
-En tournée dans les parc de l'arondissement Rosemont 2017
 
 #### [Là](http://mmrectoverso.org/portfolio/line-nault-la/ ) 
 Line Nault, Alexandre Burton, Alexandre St-Onge [2013-2016] <br>
@@ -82,39 +90,31 @@ présentée au Mois Multi à Recto-verso en février 2016
 André Éric Létourneau,  Éric Mattson,  Hexagram <br>
 Intervention audiovisuelle; développement et arrimage technologique <br>
 présenté à Easter Bloc
-		
 	
 #### [VERTIGES](http://artificiel.org/vertiges) 
 Burton et Lakatos [2014-15] <br>
 Film immersif;  Développement du flux de travail et capture 360 degrés <br>
 présenté au Planétarium Rio Tinto Alcan 
-		
-
 
 #### [Brassard: échos ](http://artificiel.org/echos)  
 artificiel [2014-2015] <br>
 Installation commémorative du lègue d'André Brassard;  programmation <br>
 Présenté à la Bibliothèque et Archives Nationales entre novembre 2014 et  mai 2015
 
-
-
 #### [IMPACTS](https://artificiel.org/impacts)
 Alexandre Burton [2012-2014] <br>
 Installation électroacoustique interactive;  Programmation et installation Tesla <br>
 présentées à BIAN, DHC/ART, Centre FACT Liverpool (UK), Mois Multi à Québec 
 
-
-#### [Devil's toys](http://artificiel.org/devilstoy) 
+#### [Devil's toys](/projets/devil) 
 artificiel,  Design par Judith Portier et ONF [2014] <br>
 Présenté à la Place des Arts <br> 
-Récipiendaire Grand Prix du Design 2014 catégorie exposition temporaire
-		
+Récipiendaire Grand Prix du Design 2014 catégorie exposition temporaire	
 
 #### [MÉMOSONO](/projets/memosono) 
 Camaraderie, PQDS, 10², artificiel [2014] <br>
 Installation ludique interactive; Conception technologique <br>
 présentée au parc Émilie Gamelin
-
 
 #### [2012](https://nault.ca/sections/creation/2012)
 Line Nault [2012-2014] <br>
@@ -123,8 +123,7 @@ Installation vidéo interactive; assistant à la création, directeur technique
 #### [Attachée](http://vimeo.com/36000701)
 Line Nault [2012] <br>
 Installation performance, danse contemporaine; Directeur technique <br>
-Présenté à l'usine C, Festival OFFTA MTL(QC); 
-		 
+Présenté à l'usine C, Festival OFFTA MTL(QC); 	 
 
 
 ### Conférences
@@ -144,6 +143,9 @@ FilmForum, Université Udine(It) Bodifications: mapping the body in media cultur
 		
 
 ### Enseignement	
+
+FCM790G Laboratoire-atelier en pratiques performatives et intermédias (UQAM)  [2018] <br>
+Auxiliaire d'enseignement, André Éric Létourneau et Alexandre St-Onge 
 
 EDM4630 Environnement immersif et interactivité (UQAM)  [2012-2014] <br>
 Auxiliaire d'enseignement, Étienne Grenier, Danny Perreault et Patrice Coulombe 
