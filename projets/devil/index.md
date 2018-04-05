@@ -5,7 +5,6 @@ subtitle: Installation audiovisuelle interactive
 tags: Intégration interactive
 years: ;2014
 shortname: devil
-frontpage: 0
 ---
 ![devil_banner](d_toy_banner.jpg)
 
