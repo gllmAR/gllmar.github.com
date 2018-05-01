@@ -3,48 +3,18 @@ layout: page
 navtitle: audio
 title: audio
 ---
-
 <br>
-Étude pour transducteur: deuxième couche, 2016
 
+<ul>
+  {% assign sorted_tracks = site.audio | sort: 'tracks.year' | reverse %}
+  {% for tracks in sorted_tracks | sort: 'tracks.year' | reverse %}
+    <li> <a href="{{ tracks.url }}">{{ tracks.title }}</a> <br>
 <audio controls  preload="none" >
-	<source type="audio/m4a" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/medias/etude_transducteur-2e.m4a">
-    <source type="audio/mp3" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/medias/etude_transducteur-2e.mp3">
-    <source type="audio/ogg" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/medias/etude_transducteur-2e.ogg">
+    <source type="audio/mp3" src="{{ tracks.url | replace: '.html', '.mp3' | prepend: site.baseurl }}">
+    <source type="audio/m4a" src="{{ tracks.url | replace: '.html', '.m4a' | prepend: site.baseurl }}">
+    <source type="audio/ogg" src="{{ tracks.url | replace: '.html', '.ogg' | prepend: site.baseurl }}">
 </audio>
-<img src="medias/waveform/etude_transducteur-2e.png" alt="Étude pour transducteur: deuxième couche, 2016"  width="100%">
 
-
-<br>
-Étude pour transducteur: 2016
-<audio controls preload="none" >
-	  <source type="audio/m4a" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/etude_transducteur.m4a">
-      <source type="audio/mp3" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/etude_transducteur.mp3">
-      <source type="audio/ogg" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/etude_transducteur.ogg">
-</audio>
-<img src="medias/waveform/etude_transducteur.png" alt="Étude pour transducteur"  width="100%">
-
-
-<br>
-Défibrilations arythmique, 2014
-<audio controls preload="none"  >
-	  <source type="audio/m4a" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/medias/arythmie.m4a">
-      <source type="audio/mp3" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/arythmie.mp3">
-      <source type="audio/ogg" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/arythmie.ogg">
-</audio>
-<br>
-<img src="medias/waveform/arythmie.png" alt="Défibrilations arythmique"  width="100%">
-
-
-<br>
-boite-a-message-jam-110119, 2011
-<audio controls  preload="none" >
-	<source type="audio/m4a" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/medias/boite-a-message-jam-110119.mp3">
-    <source type="audio/mp3" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/boite-a-message-jam-110119.mp3">
-    <source type="audio/ogg" src="https://media.githubusercontent.com/media/gllmAR/gllmar.github.com/master/projets/audio/boite-a-message-jam-110119.ogg">
-</audio>
-<img src="medias/waveform/boite-a-message-jam-110119.png" alt="boite-a-message-jam-110119, 2011"  width="100%">
-<br>
-
-
-
+    </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<header  >
+
+
+
+<span  style="float:left;  "class="post-title">{{ page.title }}</span>
+
+  <span class="subtitle" >
+  {{ page.subtitle }}
+  <br>
+  {{ page.tags }}{{ page.years }}
+  </span>
+<br>
+</header>
+  <div class="post-content">
+<br>
+<br>
+  	<audio controls  preload="none" >
+    <source type="audio/mp3" src="{{ page.url | replace: '.html', '.mp3' | prepend: site.baseurl }}">
+    <source type="audio/m4a" src="{{ page.url | replace: '.html', '.m4a' | prepend: site.baseurl }}">
+    <source type="audio/ogg" src="{{ page.url | replace: '.html', '.ogg' | prepend: site.baseurl }}">
+</audio>
+
+    {{ content }}
+  </div>
+
+</article>

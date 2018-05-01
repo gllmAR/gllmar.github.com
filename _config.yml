@@ -16,6 +16,9 @@ url: "http://gllmar.github.io" # the base hostname & protocol for your site
 twitter_username: arsenog
 github_username:  gllmar
 
+collections:
+  audio:
+    output: true
 
 # Build settings
 markdown: kramdown
