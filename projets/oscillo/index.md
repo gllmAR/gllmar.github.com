@@ -16,12 +16,13 @@ frontpage: 1
 
 Un cycle de réinjection cinétique (feedback cycles) est une performance sonore et visuelle pour oscillographe et roues de vélo.
 
-Des fragments audio s'entrelacent à de l’échantillonnage et créent des motifs lumineux. 
+Conçue à partir de feedback sous plusieurs formes, cette performance cherche à révéler l'intangible entre l'absence et le court-circuit.
+En continuité avec le mouvement de musique pour oscilloscope, Oscillographe amplifie et démocratise l'expérience sinestésique entre son et image tout en le sortant du laboratoire et des instruments de mesure. 
 
 Les particularités sonores telles que la phase, la fréquence et l'amplitude produisent une synesthésie audio visuelle hypnotique de lignes traçant la disparité stéréophonique. 
 
-Conçue à partir de feedback sous plusieurs formes, cette performance cherche à révéler l'intangible entre l'absence et le court-circuit.
-En continuité avec le mouvement de musique pour oscilloscope, Oscillographe amplifie et démocratise l'expérience sinestésique entre son et image tout en le sortant du laboratoire et des instruments de mesure. 
+
+Des fragments audio s'entrelacent à de l’échantillonnage et créent des motifs lumineux. 
 
 
 ![oscillographe_bouilli_1](b_1.jpg)
