@@ -6,8 +6,8 @@ title: audio
 <br>
 
 <ul>
-  {% assign sorted_tracks = site.audio | sort: 'tracks.year' | reverse %}
-  {% for tracks in sorted_tracks | sort: 'tracks.year' | reverse %}
+  {% assign sorted_tracks = (site.audio | sort: 'year') | reverse %} 
+  {% for tracks in sorted_tracks %}
     <li> <a href="{{ tracks.url }}">{{ tracks.title }}</a> <br>
 <audio controls  preload="none" >
     <source type="audio/mp3" src="{{ tracks.url | replace: '.html', '.mp3' | prepend: site.baseurl }}">
