@@ -34,7 +34,7 @@ padding: 6px;
 
 <div >
   {% for my_page in site.pages %}
-    {% if my_page.frontpage %}
+    {% if my_page.frontpage == 1 %}
     <div class="box2">
       <a href="{{ my_page.url | prepend: site.baseurl }}">
       <span class="span2" > {{ my_page.title }} </span>

@@ -5,7 +5,7 @@ title: cv
 shortname: cv
 ---
 <br>
- <span style="float: right;"> <a href="guillaume_arseneault_cv.pdf">pdf</a></span>
+<span style="float: right;"> <a href="guillaume_arseneault_cv.pdf">pdf</a></span>
 
 ### Créations en nouveaux médias
 
